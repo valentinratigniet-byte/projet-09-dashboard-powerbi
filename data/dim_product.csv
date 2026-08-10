@@ -1,0 +1,2001 @@
+product_key,sku,product_name,category,price,is_active
+1,SKU-000000,Monitored explicit attitude,Informatique,14.46,t
+2,SKU-000001,Reduced incremental database,Jardin,71.49,t
+3,SKU-000002,Switchable system-worthy help-desk,Beauté,45.30,t
+4,SKU-000003,Customizable value-added strategy,Électronique,48.66,t
+5,SKU-000004,Cross-platform 4thgeneration policy,Alimentation,15.21,t
+6,SKU-000005,Open-source modular function,Beauté,210.92,t
+7,SKU-000006,Mandatory bi-directional service-desk,Sport,405.10,f
+8,SKU-000007,Focused interactive emulation,Maison,349.67,t
+9,SKU-000008,Open-architected web-enabled help-desk,Maison,109.23,t
+10,SKU-000009,Upgradable real-time access,Informatique,48.19,f
+11,SKU-000010,Managed upward-trending algorithm,Mode,302.66,t
+12,SKU-000011,Function-based asymmetric matrix,Jouets,269.04,t
+13,SKU-000012,Front-line modular circuit,Livres,41.24,t
+14,SKU-000013,Digitized disintermediate firmware,Alimentation,442.95,t
+15,SKU-000014,Devolved intangible standardization,Jardin,352.88,f
+16,SKU-000015,Pre-emptive motivating toolset,Jardin,386.99,t
+17,SKU-000016,Persistent 6thgeneration strategy,Jardin,433.51,t
+18,SKU-000017,Exclusive systematic conglomeration,Jouets,318.57,t
+19,SKU-000018,Extended scalable moratorium,Mode,178.92,t
+20,SKU-000019,Customizable client-driven model,Informatique,305.35,t
+21,SKU-000020,Configurable leadingedge architecture,Jardin,83.37,t
+22,SKU-000021,Progressive regional projection,Beauté,111.37,t
+23,SKU-000022,Up-sized non-volatile system engine,Électronique,116.07,f
+24,SKU-000023,Focused heuristic function,Mode,201.78,f
+25,SKU-000024,Synergistic leadingedge support,Alimentation,438.43,t
+26,SKU-000025,Synergized value-added functionalities,Jouets,199.02,t
+27,SKU-000026,Devolved bottom-line archive,Jouets,73.15,t
+28,SKU-000027,Diverse leadingedge synergy,Beauté,270.41,t
+29,SKU-000028,Intuitive optimal interface,Livres,449.12,t
+30,SKU-000029,Fully-configurable web-enabled methodology,Jardin,498.67,t
+31,SKU-000030,Extended asynchronous array,Jouets,47.27,f
+32,SKU-000031,Integrated real-time database,Informatique,78.11,t
+33,SKU-000032,Front-line bi-directional adapter,Livres,299.01,t
+34,SKU-000033,Public-key motivating initiative,Alimentation,498.07,t
+35,SKU-000034,Diverse disintermediate application,Beauté,430.67,f
+36,SKU-000035,Optional upward-trending throughput,Informatique,341.49,t
+37,SKU-000036,Managed zero tolerance paradigm,Sport,384.76,t
+38,SKU-000037,Fundamental systematic algorithm,Sport,218.51,t
+39,SKU-000038,Assimilated disintermediate monitoring,Sport,486.00,t
+40,SKU-000039,Cross-platform multimedia website,Beauté,456.49,t
+41,SKU-000040,Ameliorated dynamic strategy,Sport,421.15,t
+42,SKU-000041,Operative exuding neural-net,Jardin,78.11,t
+43,SKU-000042,Multi-layered transitional array,Beauté,476.84,t
+44,SKU-000043,Synergistic 5thgeneration analyzer,Électronique,300.27,t
+45,SKU-000044,De-engineered asymmetric middleware,Informatique,464.69,t
+46,SKU-000045,Distributed exuding archive,Sport,121.25,t
+47,SKU-000046,Triple-buffered eco-centric algorithm,Alimentation,473.58,f
+48,SKU-000047,Quality-focused background knowledge user,Jouets,408.38,t
+49,SKU-000048,Balanced client-driven model,Beauté,383.39,t
+50,SKU-000049,Fundamental interactive architecture,Jouets,473.53,t
+51,SKU-000050,Optimized scalable neural-net,Beauté,436.47,t
+52,SKU-000051,Phased national knowledge user,Jardin,464.60,t
+53,SKU-000052,Stand-alone responsive core,Jardin,357.05,t
+54,SKU-000053,Enterprise-wide well-modulated architecture,Mode,220.17,t
+55,SKU-000054,Horizontal non-volatile portal,Informatique,125.46,f
+56,SKU-000055,Re-engineered mission-critical access,Électronique,294.98,t
+57,SKU-000056,Expanded static capacity,Jardin,5.58,t
+58,SKU-000057,Ameliorated even-keeled core,Électronique,116.01,t
+59,SKU-000058,Stand-alone fault-tolerant secured line,Mode,37.29,t
+60,SKU-000059,Proactive eco-centric data-warehouse,Jouets,108.69,t
+61,SKU-000060,Up-sized demand-driven function,Alimentation,288.95,t
+62,SKU-000061,Integrated clear-thinking benchmark,Jouets,404.13,t
+63,SKU-000062,Balanced incremental hierarchy,Informatique,330.17,t
+64,SKU-000063,Cloned 6thgeneration workforce,Livres,234.58,t
+65,SKU-000064,Ameliorated explicit infrastructure,Informatique,32.19,t
+66,SKU-000065,Adaptive asymmetric access,Informatique,125.83,t
+67,SKU-000066,Self-enabling explicit budgetary management,Jouets,71.81,t
+68,SKU-000067,Exclusive bottom-line encoding,Jouets,126.40,t
+69,SKU-000068,Mandatory high-level groupware,Jouets,404.40,t
+70,SKU-000069,User-friendly logistical orchestration,Informatique,27.19,t
+71,SKU-000070,Innovative client-driven application,Électronique,484.56,t
+72,SKU-000071,Up-sized methodical task-force,Jardin,84.82,t
+73,SKU-000072,Digitized systemic software,Jardin,432.60,t
+74,SKU-000073,De-engineered systematic emulation,Maison,190.73,t
+75,SKU-000074,Right-sized heuristic interface,Sport,463.41,t
+76,SKU-000075,Versatile system-worthy Local Area Network,Sport,212.66,t
+77,SKU-000076,De-engineered stable artificial intelligence,Beauté,331.61,t
+78,SKU-000077,Pre-emptive homogeneous utilization,Jardin,149.76,t
+79,SKU-000078,Vision-oriented asynchronous strategy,Alimentation,368.40,f
+80,SKU-000079,Programmable well-modulated policy,Mode,30.47,t
+81,SKU-000080,Virtual next generation paradigm,Beauté,459.85,t
+82,SKU-000081,Reactive modular structure,Électronique,480.47,f
+83,SKU-000082,Reactive logistical matrix,Maison,36.12,f
+84,SKU-000083,Optimized methodical support,Jardin,203.08,t
+85,SKU-000084,Organic holistic architecture,Alimentation,124.62,t
+86,SKU-000085,Extended motivating matrices,Alimentation,42.83,t
+87,SKU-000086,Persistent stable archive,Alimentation,262.35,t
+88,SKU-000087,De-engineered didactic portal,Jardin,335.52,t
+89,SKU-000088,Public-key attitude-oriented monitoring,Sport,199.10,t
+90,SKU-000089,Re-engineered directional pricing structure,Sport,229.70,t
+91,SKU-000090,Persevering secondary productivity,Informatique,6.64,t
+92,SKU-000091,Diverse 6thgeneration focus group,Alimentation,498.06,f
+93,SKU-000092,Profit-focused methodical definition,Jardin,253.93,t
+94,SKU-000093,Automated even-keeled hierarchy,Mode,440.67,t
+95,SKU-000094,Customizable optimizing extranet,Mode,143.92,t
+96,SKU-000095,Intuitive global support,Beauté,352.36,t
+97,SKU-000096,Profit-focused incremental migration,Beauté,5.90,t
+98,SKU-000097,Configurable secondary support,Sport,466.01,t
+99,SKU-000098,Persevering uniform definition,Maison,133.70,t
+100,SKU-000099,Grass-roots bifurcated monitoring,Beauté,79.41,t
+101,SKU-000100,Realigned systemic algorithm,Jardin,359.37,t
+102,SKU-000101,Proactive optimal protocol,Sport,253.69,t
+103,SKU-000102,Open-architected zero-defect function,Électronique,47.96,t
+104,SKU-000103,Upgradable systematic analyzer,Sport,23.96,t
+105,SKU-000104,Fully-configurable responsive productivity,Maison,319.28,t
+106,SKU-000105,Customer-focused grid-enabled matrix,Jouets,276.74,t
+107,SKU-000106,Intuitive multimedia groupware,Électronique,57.71,t
+108,SKU-000107,Secured content-based open system,Maison,273.70,t
+109,SKU-000108,Customer-focused zero administration moratorium,Alimentation,277.16,t
+110,SKU-000109,Sharable fresh-thinking encoding,Électronique,155.51,t
+111,SKU-000110,Switchable hybrid success,Électronique,449.66,t
+112,SKU-000111,Devolved 5thgeneration hierarchy,Jardin,334.13,t
+113,SKU-000112,Grass-roots fault-tolerant policy,Beauté,442.30,t
+114,SKU-000113,Ergonomic zero administration encoding,Alimentation,375.24,t
+115,SKU-000114,Reduced contextually-based knowledge user,Jardin,432.57,t
+116,SKU-000115,Configurable systematic open system,Maison,440.95,f
+117,SKU-000116,Intuitive eco-centric algorithm,Mode,391.63,t
+118,SKU-000117,Open-source discrete model,Jardin,134.87,t
+119,SKU-000118,Intuitive intangible knowledgebase,Informatique,192.51,f
+120,SKU-000119,Advanced client-driven application,Jouets,112.77,t
+121,SKU-000120,User-centric maximized productivity,Jouets,176.13,t
+122,SKU-000121,Compatible zero administration help-desk,Jardin,113.02,t
+123,SKU-000122,Exclusive logistical open architecture,Livres,165.47,t
+124,SKU-000123,Switchable even-keeled contingency,Sport,176.87,t
+125,SKU-000124,Centralized systemic hardware,Beauté,166.91,f
+126,SKU-000125,Multi-channeled systemic projection,Sport,90.93,t
+127,SKU-000126,Monitored uniform Graphical User Interface,Sport,21.05,t
+128,SKU-000127,Versatile directional service-desk,Mode,364.82,t
+129,SKU-000128,Intuitive encompassing forecast,Alimentation,492.15,t
+130,SKU-000129,Virtual 5thgeneration knowledge user,Alimentation,96.66,f
+131,SKU-000130,Virtual multi-state strategy,Livres,2.84,t
+132,SKU-000131,Reverse-engineered systematic installation,Beauté,344.05,t
+133,SKU-000132,Persevering maximized standardization,Jardin,183.38,f
+134,SKU-000133,Profit-focused multi-tasking monitoring,Mode,312.33,t
+135,SKU-000134,Reverse-engineered composite project,Informatique,360.44,t
+136,SKU-000135,Universal upward-trending challenge,Sport,334.11,t
+137,SKU-000136,Customer-focused well-modulated alliance,Sport,278.10,t
+138,SKU-000137,User-centric 5thgeneration knowledgebase,Livres,339.30,t
+139,SKU-000138,Vision-oriented client-driven service-desk,Alimentation,285.41,t
+140,SKU-000139,Synchronized 24/7 focus group,Électronique,153.33,t
+141,SKU-000140,Ameliorated zero administration system engine,Alimentation,304.12,t
+142,SKU-000141,Secured fault-tolerant methodology,Jouets,222.20,t
+143,SKU-000142,Virtual asymmetric capability,Jouets,397.28,t
+144,SKU-000143,Enhanced explicit initiative,Maison,330.11,t
+145,SKU-000144,Customer-focused system-worthy intranet,Alimentation,168.92,t
+146,SKU-000145,Multi-lateral static matrix,Jardin,337.05,t
+147,SKU-000146,Public-key system-worthy access,Jardin,75.38,f
+148,SKU-000147,Grass-roots bandwidth-monitored adapter,Jouets,306.41,t
+149,SKU-000148,Team-oriented fault-tolerant neural-net,Jouets,208.39,t
+150,SKU-000149,Optimized incremental matrices,Jardin,359.74,t
+151,SKU-000150,Configurable multi-state instruction set,Livres,123.50,t
+152,SKU-000151,Function-based encompassing collaboration,Électronique,446.54,t
+153,SKU-000152,Optional clear-thinking throughput,Informatique,389.65,t
+154,SKU-000153,Implemented exuding methodology,Beauté,233.35,t
+155,SKU-000154,Centralized tangible firmware,Informatique,229.32,t
+156,SKU-000155,Re-contextualized neutral instruction set,Beauté,493.97,t
+157,SKU-000156,Phased attitude-oriented budgetary management,Jouets,307.10,t
+158,SKU-000157,Ameliorated bottom-line middleware,Beauté,214.52,t
+159,SKU-000158,Persistent maximized time-frame,Jouets,448.81,t
+160,SKU-000159,Advanced discrete encryption,Jouets,226.13,t
+161,SKU-000160,Diverse fresh-thinking Local Area Network,Sport,383.38,t
+162,SKU-000161,Vision-oriented actuating solution,Jardin,138.75,f
+163,SKU-000162,Horizontal stable frame,Sport,118.78,t
+164,SKU-000163,Face-to-face zero tolerance system engine,Beauté,42.13,t
+165,SKU-000164,Assimilated maximized encryption,Livres,347.59,t
+166,SKU-000165,Devolved fault-tolerant implementation,Informatique,208.60,t
+167,SKU-000166,Switchable interactive throughput,Jouets,209.06,t
+168,SKU-000167,Progressive non-volatile pricing structure,Livres,195.96,t
+169,SKU-000168,Polarized stable extranet,Électronique,428.65,t
+170,SKU-000169,Right-sized systematic approach,Livres,239.54,t
+171,SKU-000170,Versatile didactic productivity,Sport,377.23,t
+172,SKU-000171,Vision-oriented analyzing firmware,Livres,270.03,t
+173,SKU-000172,Focused multimedia attitude,Alimentation,449.11,t
+174,SKU-000173,Persistent leadingedge process improvement,Sport,219.05,f
+175,SKU-000174,Right-sized user-facing middleware,Mode,335.10,t
+176,SKU-000175,Reverse-engineered object-oriented circuit,Maison,420.57,t
+177,SKU-000176,Fundamental impactful orchestration,Alimentation,267.99,t
+178,SKU-000177,Diverse executive Local Area Network,Alimentation,283.07,f
+179,SKU-000178,Ameliorated executive moderator,Livres,69.58,t
+180,SKU-000179,Decentralized bi-directional software,Électronique,131.56,t
+181,SKU-000180,Ergonomic analyzing array,Jouets,164.77,t
+182,SKU-000181,Profound interactive throughput,Livres,140.57,t
+183,SKU-000182,Horizontal dynamic challenge,Livres,127.63,f
+184,SKU-000183,Fully-configurable attitude-oriented firmware,Électronique,375.01,f
+185,SKU-000184,Multi-channeled system-worthy implementation,Mode,113.66,f
+186,SKU-000185,Multi-layered bandwidth-monitored migration,Électronique,377.61,t
+187,SKU-000186,Decentralized composite Local Area Network,Jardin,419.94,t
+188,SKU-000187,Multi-layered radical artificial intelligence,Jardin,64.86,t
+189,SKU-000188,Phased analyzing adapter,Alimentation,473.98,t
+190,SKU-000189,Fully-configurable encompassing encoding,Sport,383.92,t
+191,SKU-000190,Virtual logistical flexibility,Alimentation,481.94,t
+192,SKU-000191,Exclusive upward-trending collaboration,Maison,482.43,t
+193,SKU-000192,Multi-channeled homogeneous workforce,Électronique,464.59,t
+194,SKU-000193,Synergized methodical frame,Livres,199.53,t
+195,SKU-000194,Assimilated zero tolerance solution,Informatique,296.86,t
+196,SKU-000195,Managed demand-driven implementation,Jardin,52.75,t
+197,SKU-000196,Devolved foreground array,Alimentation,403.15,t
+198,SKU-000197,Streamlined static collaboration,Alimentation,391.75,t
+199,SKU-000198,Expanded bottom-line archive,Livres,331.44,f
+200,SKU-000199,Mandatory empowering benchmark,Mode,8.30,t
+201,SKU-000200,Sharable asymmetric budgetary management,Jouets,54.56,t
+202,SKU-000201,Reverse-engineered 4thgeneration productivity,Jouets,354.24,t
+203,SKU-000202,Devolved 4thgeneration implementation,Beauté,482.81,t
+204,SKU-000203,Advanced mobile benchmark,Beauté,387.77,t
+205,SKU-000204,Fully-configurable user-facing initiative,Alimentation,135.66,t
+206,SKU-000205,Streamlined optimal database,Informatique,140.91,t
+207,SKU-000206,Business-focused zero tolerance alliance,Jouets,285.79,t
+208,SKU-000207,Multi-lateral clear-thinking conglomeration,Mode,16.29,t
+209,SKU-000208,Compatible systematic function,Maison,244.80,t
+210,SKU-000209,Fundamental cohesive project,Sport,171.49,t
+211,SKU-000210,Optimized zero tolerance intranet,Sport,278.78,t
+212,SKU-000211,Streamlined dynamic synergy,Jardin,44.64,t
+213,SKU-000212,Versatile high-level customer loyalty,Jouets,278.48,t
+214,SKU-000213,Realigned empowering secured line,Jouets,323.66,t
+215,SKU-000214,Devolved foreground time-frame,Électronique,48.34,t
+216,SKU-000215,Optimized bottom-line capability,Jardin,154.49,t
+217,SKU-000216,Open-source bi-directional software,Jouets,277.63,t
+218,SKU-000217,Intuitive static task-force,Beauté,166.73,t
+219,SKU-000218,Secured object-oriented structure,Sport,154.70,t
+220,SKU-000219,Seamless fault-tolerant flexibility,Jardin,159.14,t
+221,SKU-000220,User-centric client-server installation,Maison,97.39,t
+222,SKU-000221,Total attitude-oriented monitoring,Sport,362.84,t
+223,SKU-000222,Grass-roots full-range functionalities,Beauté,299.20,t
+224,SKU-000223,Expanded leadingedge task-force,Jardin,149.53,t
+225,SKU-000224,Vision-oriented foreground monitoring,Sport,9.05,t
+226,SKU-000225,Distributed impactful moderator,Sport,24.67,f
+227,SKU-000226,De-engineered uniform project,Sport,349.31,t
+228,SKU-000227,Secured holistic approach,Jouets,53.09,f
+229,SKU-000228,Public-key bi-directional flexibility,Sport,235.76,t
+230,SKU-000229,Seamless optimal protocol,Maison,482.82,t
+231,SKU-000230,Integrated 5thgeneration contingency,Jouets,58.82,f
+232,SKU-000231,Ergonomic client-driven core,Jouets,38.89,t
+233,SKU-000232,Monitored next generation hub,Électronique,77.56,t
+234,SKU-000233,Reverse-engineered discrete hardware,Sport,44.42,t
+235,SKU-000234,Profound analyzing solution,Beauté,382.69,t
+236,SKU-000235,Expanded static support,Alimentation,114.39,t
+237,SKU-000236,Self-enabling full-range project,Jouets,454.44,t
+238,SKU-000237,Down-sized multimedia model,Alimentation,495.04,t
+239,SKU-000238,Assimilated global algorithm,Alimentation,31.99,t
+240,SKU-000239,Proactive foreground analyzer,Informatique,473.90,t
+241,SKU-000240,Proactive transitional secured line,Jardin,133.79,f
+242,SKU-000241,Profound background paradigm,Jardin,88.56,f
+243,SKU-000242,Synergized responsive knowledge user,Électronique,205.44,t
+244,SKU-000243,Extended high-level firmware,Jouets,147.05,t
+245,SKU-000244,Implemented clear-thinking help-desk,Sport,352.09,t
+246,SKU-000245,Enterprise-wide even-keeled strategy,Jardin,462.11,t
+247,SKU-000246,Total methodical methodology,Alimentation,331.27,t
+248,SKU-000247,Pre-emptive mission-critical extranet,Livres,59.16,t
+249,SKU-000248,Horizontal zero-defect focus group,Maison,454.39,t
+250,SKU-000249,Re-contextualized human-resource firmware,Informatique,31.70,t
+251,SKU-000250,Reverse-engineered dynamic alliance,Alimentation,374.98,t
+252,SKU-000251,Integrated interactive forecast,Sport,220.70,t
+253,SKU-000252,Business-focused actuating Internet solution,Sport,350.47,t
+254,SKU-000253,Advanced human-resource open system,Beauté,270.91,t
+255,SKU-000254,Public-key multimedia challenge,Alimentation,21.85,t
+256,SKU-000255,Networked exuding moratorium,Mode,302.65,f
+257,SKU-000256,Optional clear-thinking support,Jardin,481.03,t
+258,SKU-000257,Synchronized logistical hierarchy,Alimentation,294.39,f
+259,SKU-000258,Multi-lateral demand-driven methodology,Sport,288.97,t
+260,SKU-000259,Persistent optimizing emulation,Maison,236.31,t
+261,SKU-000260,Realigned heuristic projection,Sport,92.38,t
+262,SKU-000261,Implemented solution-oriented website,Jouets,484.59,t
+263,SKU-000262,Multi-tiered 3rdgeneration paradigm,Livres,167.99,t
+264,SKU-000263,Cross-platform client-driven capability,Maison,166.24,t
+265,SKU-000264,Ameliorated eco-centric algorithm,Sport,331.97,t
+266,SKU-000265,Persistent cohesive hierarchy,Beauté,20.28,f
+267,SKU-000266,Function-based heuristic superstructure,Sport,162.99,t
+268,SKU-000267,Exclusive real-time Internet solution,Livres,432.73,t
+269,SKU-000268,Balanced background system engine,Électronique,329.51,t
+270,SKU-000269,Optional analyzing orchestration,Livres,28.99,t
+271,SKU-000270,Seamless directional circuit,Alimentation,378.71,t
+272,SKU-000271,Self-enabling value-added extranet,Électronique,103.37,t
+273,SKU-000272,Persistent 4thgeneration intranet,Sport,220.18,t
+274,SKU-000273,Re-contextualized client-server infrastructure,Informatique,16.38,t
+275,SKU-000274,Devolved high-level secured line,Jardin,355.47,t
+276,SKU-000275,Customer-focused tertiary matrices,Électronique,277.02,f
+277,SKU-000276,Implemented dedicated capability,Informatique,231.80,t
+278,SKU-000277,Synergized hybrid time-frame,Maison,250.19,t
+279,SKU-000278,Centralized didactic capacity,Beauté,353.29,t
+280,SKU-000279,Multi-layered analyzing projection,Jouets,490.16,t
+281,SKU-000280,Focused value-added software,Beauté,74.03,t
+282,SKU-000281,Team-oriented zero-defect paradigm,Alimentation,255.10,t
+283,SKU-000282,Innovative dynamic service-desk,Informatique,139.57,t
+284,SKU-000283,Sharable radical migration,Livres,171.26,t
+285,SKU-000284,Progressive empowering flexibility,Sport,410.63,t
+286,SKU-000285,Distributed logistical open architecture,Sport,419.06,t
+287,SKU-000286,Re-engineered heuristic collaboration,Jouets,432.90,t
+288,SKU-000287,Synergized dynamic interface,Jouets,173.87,t
+289,SKU-000288,Cross-group zero tolerance methodology,Beauté,189.85,t
+290,SKU-000289,Reverse-engineered empowering open system,Jardin,490.43,t
+291,SKU-000290,Operative uniform firmware,Livres,118.31,t
+292,SKU-000291,Mandatory fault-tolerant portal,Électronique,160.45,t
+293,SKU-000292,Total value-added help-desk,Livres,194.27,t
+294,SKU-000293,Universal regional help-desk,Maison,248.67,f
+295,SKU-000294,Persevering upward-trending middleware,Beauté,482.75,t
+296,SKU-000295,Customizable context-sensitive knowledge user,Informatique,437.35,t
+297,SKU-000296,Up-sized content-based success,Beauté,455.40,f
+298,SKU-000297,Customer-focused modular strategy,Maison,206.17,t
+299,SKU-000298,Horizontal systemic superstructure,Maison,39.26,t
+300,SKU-000299,Switchable client-server intranet,Sport,170.60,t
+301,SKU-000300,Upgradable bi-directional moderator,Informatique,426.18,t
+302,SKU-000301,Focused clear-thinking circuit,Beauté,191.24,t
+303,SKU-000302,Synergized even-keeled algorithm,Jouets,436.45,f
+304,SKU-000303,Diverse didactic policy,Informatique,118.92,t
+305,SKU-000304,Expanded hybrid secured line,Sport,498.72,t
+306,SKU-000305,De-engineered methodical info-mediaries,Livres,489.21,t
+307,SKU-000306,Customer-focused maximized installation,Informatique,222.95,t
+308,SKU-000307,Future-proofed tertiary algorithm,Électronique,24.90,t
+309,SKU-000308,Visionary static focus group,Sport,180.51,t
+310,SKU-000309,Balanced even-keeled superstructure,Jardin,266.52,t
+311,SKU-000310,Networked global protocol,Maison,86.65,f
+312,SKU-000311,Multi-lateral bandwidth-monitored artificial intelligence,Livres,310.62,t
+313,SKU-000312,Diverse neutral implementation,Alimentation,73.27,t
+314,SKU-000313,Focused motivating artificial intelligence,Sport,230.87,t
+315,SKU-000314,Decentralized 3rdgeneration hardware,Jouets,450.80,t
+316,SKU-000315,Adaptive client-driven strategy,Maison,38.78,t
+317,SKU-000316,De-engineered national structure,Alimentation,150.98,t
+318,SKU-000317,Robust cohesive alliance,Sport,229.50,t
+319,SKU-000318,Polarized zero-defect projection,Livres,426.96,t
+320,SKU-000319,Implemented systematic productivity,Livres,286.82,t
+321,SKU-000320,Mandatory optimizing help-desk,Sport,12.93,t
+322,SKU-000321,Down-sized multi-tasking structure,Livres,138.69,t
+323,SKU-000322,Devolved leadingedge time-frame,Électronique,455.49,t
+324,SKU-000323,Operative mobile matrices,Sport,388.32,t
+325,SKU-000324,Future-proofed contextually-based database,Mode,111.06,t
+326,SKU-000325,Secured demand-driven functionalities,Sport,339.53,t
+327,SKU-000326,Total empowering data-warehouse,Maison,314.87,t
+328,SKU-000327,Versatile discrete productivity,Électronique,155.85,t
+329,SKU-000328,Persevering content-based superstructure,Alimentation,183.70,t
+330,SKU-000329,Devolved transitional intranet,Sport,164.71,t
+331,SKU-000330,Programmable didactic portal,Jardin,67.82,t
+332,SKU-000331,Operative zero administration synergy,Mode,266.36,t
+333,SKU-000332,Reduced contextually-based artificial intelligence,Maison,129.97,t
+334,SKU-000333,Monitored bottom-line analyzer,Jouets,483.76,t
+335,SKU-000334,Advanced client-driven implementation,Mode,402.51,t
+336,SKU-000335,Adaptive mobile intranet,Informatique,72.10,t
+337,SKU-000336,Versatile composite architecture,Livres,483.70,t
+338,SKU-000337,Function-based content-based product,Mode,46.97,t
+339,SKU-000338,Self-enabling eco-centric standardization,Sport,269.21,t
+340,SKU-000339,Programmable human-resource open system,Sport,293.11,t
+341,SKU-000340,Synchronized zero tolerance implementation,Mode,55.96,t
+342,SKU-000341,Mandatory didactic methodology,Électronique,310.53,t
+343,SKU-000342,Cloned high-level help-desk,Mode,457.80,t
+344,SKU-000343,Phased dynamic budgetary management,Informatique,318.43,t
+345,SKU-000344,Assimilated heuristic contingency,Sport,325.32,t
+346,SKU-000345,Adaptive next generation open system,Électronique,473.24,t
+347,SKU-000346,Realigned content-based architecture,Jouets,59.83,t
+348,SKU-000347,Realigned logistical definition,Beauté,69.56,t
+349,SKU-000348,Assimilated static workforce,Beauté,210.73,t
+350,SKU-000349,Re-contextualized high-level application,Maison,442.94,t
+351,SKU-000350,Phased regional database,Jouets,308.59,t
+352,SKU-000351,Focused maximized knowledge user,Sport,18.29,t
+353,SKU-000352,Focused bi-directional capacity,Jouets,223.46,t
+354,SKU-000353,Seamless methodical core,Mode,51.48,t
+355,SKU-000354,Grass-roots attitude-oriented support,Beauté,451.04,t
+356,SKU-000355,Integrated multi-state Graphical User Interface,Électronique,200.27,t
+357,SKU-000356,Business-focused zero administration complexity,Informatique,474.61,t
+358,SKU-000357,Synergized system-worthy knowledgebase,Informatique,332.06,t
+359,SKU-000358,Synchronized holistic portal,Alimentation,485.60,f
+360,SKU-000359,Sharable tangible algorithm,Mode,123.30,t
+361,SKU-000360,Progressive coherent installation,Alimentation,104.19,t
+362,SKU-000361,Quality-focused transitional adapter,Beauté,105.16,t
+363,SKU-000362,Adaptive real-time approach,Jardin,165.62,t
+364,SKU-000363,Phased coherent conglomeration,Alimentation,3.41,t
+365,SKU-000364,Assimilated next generation projection,Maison,493.79,t
+366,SKU-000365,Self-enabling mission-critical artificial intelligence,Maison,56.74,t
+367,SKU-000366,Diverse web-enabled capability,Maison,9.40,t
+368,SKU-000367,Programmable optimal system engine,Jardin,295.25,f
+369,SKU-000368,Grass-roots grid-enabled contingency,Sport,28.09,t
+370,SKU-000369,Fully-configurable radical project,Beauté,58.60,f
+371,SKU-000370,Total fresh-thinking open system,Jouets,389.45,t
+372,SKU-000371,Open-source zero administration alliance,Informatique,227.10,t
+373,SKU-000372,De-engineered disintermediate database,Alimentation,23.60,t
+374,SKU-000373,Compatible fresh-thinking workforce,Beauté,152.21,t
+375,SKU-000374,Secured zero-defect process improvement,Électronique,32.29,t
+376,SKU-000375,Programmable uniform Local Area Network,Livres,214.28,t
+377,SKU-000376,Monitored bifurcated knowledgebase,Jouets,38.60,f
+378,SKU-000377,Multi-lateral local utilization,Alimentation,75.87,t
+379,SKU-000378,Secured 4thgeneration customer loyalty,Alimentation,317.27,t
+380,SKU-000379,Down-sized dedicated access,Mode,191.69,t
+381,SKU-000380,Reactive multi-tasking monitoring,Sport,227.95,t
+382,SKU-000381,Centralized intermediate ability,Informatique,396.96,t
+383,SKU-000382,Robust executive architecture,Beauté,360.98,t
+384,SKU-000383,Persistent global access,Jouets,444.27,t
+385,SKU-000384,Down-sized upward-trending focus group,Jouets,200.57,t
+386,SKU-000385,Decentralized directional algorithm,Mode,214.53,t
+387,SKU-000386,Business-focused leadingedge migration,Mode,476.89,t
+388,SKU-000387,Self-enabling needs-based interface,Jouets,35.43,t
+389,SKU-000388,Proactive solution-oriented hardware,Informatique,217.07,t
+390,SKU-000389,Programmable tangible toolset,Mode,406.26,t
+391,SKU-000390,Pre-emptive fresh-thinking Graphical User Interface,Alimentation,478.40,t
+392,SKU-000391,Synergized needs-based Graphical User Interface,Informatique,206.58,t
+393,SKU-000392,Adaptive optimizing Graphical User Interface,Livres,434.31,t
+394,SKU-000393,Re-engineered web-enabled attitude,Sport,301.00,t
+395,SKU-000394,Innovative full-range analyzer,Alimentation,254.69,t
+396,SKU-000395,Implemented regional intranet,Jouets,113.67,t
+397,SKU-000396,Enhanced dynamic infrastructure,Beauté,185.05,t
+398,SKU-000397,Open-source regional frame,Alimentation,114.63,t
+399,SKU-000398,Synergistic hybrid capacity,Beauté,487.32,t
+400,SKU-000399,Organized context-sensitive middleware,Alimentation,338.14,t
+401,SKU-000400,Optimized global benchmark,Alimentation,464.68,t
+402,SKU-000401,Quality-focused bottom-line forecast,Sport,16.42,t
+403,SKU-000402,Visionary system-worthy challenge,Sport,460.93,t
+404,SKU-000403,Balanced fault-tolerant utilization,Maison,435.19,t
+405,SKU-000404,Face-to-face solution-oriented neural-net,Livres,36.65,t
+406,SKU-000405,Future-proofed well-modulated protocol,Électronique,47.70,t
+407,SKU-000406,Inverse 6thgeneration software,Livres,211.08,t
+408,SKU-000407,Team-oriented empowering initiative,Mode,157.20,t
+409,SKU-000408,Digitized bi-directional matrix,Alimentation,298.92,t
+410,SKU-000409,Networked empowering protocol,Maison,80.39,t
+411,SKU-000410,Ergonomic explicit portal,Informatique,137.51,t
+412,SKU-000411,Exclusive object-oriented forecast,Jouets,304.32,t
+413,SKU-000412,Customer-focused interactive toolset,Jardin,377.96,t
+414,SKU-000413,Universal web-enabled implementation,Livres,57.22,t
+415,SKU-000414,Organized eco-centric alliance,Alimentation,244.34,t
+416,SKU-000415,Organic next generation service-desk,Électronique,111.82,t
+417,SKU-000416,Realigned systematic solution,Électronique,5.83,t
+418,SKU-000417,Operative non-volatile migration,Jardin,384.14,t
+419,SKU-000418,User-centric tangible hierarchy,Sport,165.40,f
+420,SKU-000419,Public-key foreground knowledge user,Livres,89.50,t
+421,SKU-000420,Future-proofed regional archive,Jardin,251.13,t
+422,SKU-000421,Versatile background application,Mode,37.89,t
+423,SKU-000422,Object-based secondary workforce,Électronique,219.24,t
+424,SKU-000423,Optional logistical project,Informatique,431.33,t
+425,SKU-000424,Distributed interactive frame,Alimentation,203.40,t
+426,SKU-000425,Cross-group motivating knowledge user,Sport,59.36,f
+427,SKU-000426,Secured disintermediate projection,Mode,87.59,t
+428,SKU-000427,Reduced local monitoring,Jouets,416.35,t
+429,SKU-000428,Seamless foreground data-warehouse,Informatique,219.48,t
+430,SKU-000429,Persevering methodical application,Livres,295.26,t
+431,SKU-000430,Compatible cohesive focus group,Livres,435.52,t
+432,SKU-000431,Re-engineered didactic budgetary management,Jardin,167.87,t
+433,SKU-000432,Optional user-facing flexibility,Beauté,317.35,t
+434,SKU-000433,Multi-channeled systematic secured line,Jardin,453.15,t
+435,SKU-000434,Right-sized multi-state circuit,Maison,119.66,t
+436,SKU-000435,Fundamental dynamic intranet,Jardin,88.40,t
+437,SKU-000436,Quality-focused 24/7 flexibility,Informatique,90.22,t
+438,SKU-000437,Organic 24hour frame,Jouets,233.05,t
+439,SKU-000438,Balanced mission-critical product,Alimentation,225.55,t
+440,SKU-000439,Reverse-engineered dedicated info-mediaries,Alimentation,322.21,t
+441,SKU-000440,Monitored asymmetric website,Mode,432.39,t
+442,SKU-000441,Profound local hub,Maison,221.00,t
+443,SKU-000442,Object-based zero tolerance paradigm,Sport,398.57,t
+444,SKU-000443,Enhanced intermediate standardization,Mode,254.65,t
+445,SKU-000444,Reverse-engineered client-driven system engine,Jouets,20.73,t
+446,SKU-000445,Business-focused zero-defect time-frame,Sport,40.21,t
+447,SKU-000446,Face-to-face static success,Informatique,308.27,t
+448,SKU-000447,Diverse methodical database,Jouets,291.00,t
+449,SKU-000448,Mandatory zero-defect methodology,Électronique,225.97,t
+450,SKU-000449,Decentralized client-server hierarchy,Jardin,162.12,t
+451,SKU-000450,Networked mission-critical contingency,Maison,478.95,t
+452,SKU-000451,Compatible coherent encryption,Mode,491.23,f
+453,SKU-000452,Adaptive 4thgeneration neural-net,Maison,21.49,t
+454,SKU-000453,Vision-oriented global knowledgebase,Jouets,262.99,t
+455,SKU-000454,Switchable motivating orchestration,Mode,187.68,t
+456,SKU-000455,Monitored zero tolerance parallelism,Livres,387.68,t
+457,SKU-000456,Customizable holistic emulation,Électronique,395.04,t
+458,SKU-000457,Digitized tertiary function,Informatique,166.19,t
+459,SKU-000458,Enterprise-wide global time-frame,Livres,143.51,t
+460,SKU-000459,Networked homogeneous adapter,Alimentation,436.89,t
+461,SKU-000460,Adaptive optimal moratorium,Alimentation,332.48,t
+462,SKU-000461,Up-sized 24hour groupware,Sport,483.91,t
+463,SKU-000462,Pre-emptive national data-warehouse,Livres,66.22,t
+464,SKU-000463,Open-source solution-oriented portal,Informatique,156.17,t
+465,SKU-000464,Balanced tangible database,Mode,406.97,t
+466,SKU-000465,Assimilated dedicated flexibility,Beauté,48.54,t
+467,SKU-000466,Compatible dynamic productivity,Beauté,182.19,t
+468,SKU-000467,Open-architected global projection,Maison,475.68,t
+469,SKU-000468,Ergonomic clear-thinking parallelism,Jouets,97.62,t
+470,SKU-000469,Profound fresh-thinking Internet solution,Maison,40.43,t
+471,SKU-000470,Upgradable national flexibility,Informatique,254.83,t
+472,SKU-000471,Seamless systematic portal,Beauté,20.80,t
+473,SKU-000472,Organic uniform website,Alimentation,67.26,t
+474,SKU-000473,Organic 4thgeneration support,Maison,92.06,t
+475,SKU-000474,Proactive 6thgeneration interface,Alimentation,404.90,t
+476,SKU-000475,Balanced 4thgeneration methodology,Jouets,23.76,t
+477,SKU-000476,Future-proofed homogeneous attitude,Jardin,484.86,t
+478,SKU-000477,Grass-roots zero tolerance encoding,Jouets,118.53,t
+479,SKU-000478,Fully-configurable leadingedge alliance,Jouets,452.18,t
+480,SKU-000479,Business-focused zero tolerance focus group,Alimentation,492.25,t
+481,SKU-000480,Upgradable optimizing artificial intelligence,Sport,389.51,t
+482,SKU-000481,Upgradable stable matrix,Livres,483.20,t
+483,SKU-000482,Integrated executive customer loyalty,Alimentation,70.92,t
+484,SKU-000483,Networked next generation intranet,Jouets,437.31,t
+485,SKU-000484,Configurable stable superstructure,Informatique,356.28,t
+486,SKU-000485,Sharable homogeneous encoding,Informatique,143.96,t
+487,SKU-000486,Profit-focused tangible knowledgebase,Sport,225.76,t
+488,SKU-000487,Optional contextually-based artificial intelligence,Livres,47.67,t
+489,SKU-000488,Multi-channeled mission-critical strategy,Jouets,442.55,t
+490,SKU-000489,Pre-emptive exuding ability,Livres,28.52,t
+491,SKU-000490,User-centric fresh-thinking extranet,Jardin,194.31,f
+492,SKU-000491,Multi-layered motivating Internet solution,Jardin,16.04,t
+493,SKU-000492,Optimized bottom-line moderator,Mode,396.11,t
+494,SKU-000493,Distributed explicit task-force,Sport,458.86,t
+495,SKU-000494,Quality-focused uniform methodology,Maison,379.90,t
+496,SKU-000495,Integrated asymmetric focus group,Alimentation,4.62,f
+497,SKU-000496,Down-sized mobile middleware,Sport,109.40,t
+498,SKU-000497,Multi-lateral discrete product,Alimentation,264.83,t
+499,SKU-000498,Cloned eco-centric benchmark,Sport,120.34,t
+500,SKU-000499,Up-sized upward-trending portal,Jardin,211.07,t
+501,SKU-000500,Profit-focused motivating leverage,Jouets,33.28,t
+502,SKU-000501,Enhanced intangible database,Jouets,299.18,f
+503,SKU-000502,Triple-buffered empowering software,Beauté,288.37,t
+504,SKU-000503,Re-engineered context-sensitive artificial intelligence,Sport,215.76,t
+505,SKU-000504,Sharable cohesive challenge,Jardin,286.19,t
+506,SKU-000505,Expanded transitional definition,Informatique,262.70,t
+507,SKU-000506,Re-engineered optimal website,Beauté,272.95,t
+508,SKU-000507,Progressive cohesive capability,Beauté,277.97,t
+509,SKU-000508,Intuitive non-volatile toolset,Jouets,23.68,t
+510,SKU-000509,Assimilated 24/7 Local Area Network,Mode,128.32,f
+511,SKU-000510,Total bottom-line data-warehouse,Informatique,173.71,t
+512,SKU-000511,Devolved stable standardization,Informatique,386.21,t
+513,SKU-000512,Adaptive explicit structure,Mode,68.44,t
+514,SKU-000513,Future-proofed multimedia firmware,Mode,407.13,t
+515,SKU-000514,Vision-oriented grid-enabled instruction set,Jouets,490.45,t
+516,SKU-000515,Persevering mission-critical archive,Maison,406.13,f
+517,SKU-000516,Multi-lateral static flexibility,Jouets,20.42,t
+518,SKU-000517,Customizable upward-trending Local Area Network,Jardin,443.12,t
+519,SKU-000518,Streamlined tangible implementation,Sport,258.66,t
+520,SKU-000519,Networked 24hour frame,Beauté,237.75,f
+521,SKU-000520,Intuitive intangible neural-net,Jardin,144.48,t
+522,SKU-000521,Reverse-engineered discrete orchestration,Électronique,433.17,t
+523,SKU-000522,Configurable bandwidth-monitored initiative,Informatique,400.07,t
+524,SKU-000523,Synergized user-facing function,Livres,372.17,t
+525,SKU-000524,Multi-layered leadingedge projection,Livres,170.84,t
+526,SKU-000525,Open-architected mobile toolset,Jouets,184.94,t
+527,SKU-000526,Synchronized local system engine,Sport,400.97,t
+528,SKU-000527,Open-architected holistic leverage,Informatique,216.44,t
+529,SKU-000528,Up-sized intermediate info-mediaries,Maison,273.65,t
+530,SKU-000529,Open-architected eco-centric matrices,Informatique,165.30,t
+531,SKU-000530,Object-based 6thgeneration open architecture,Jouets,302.11,t
+532,SKU-000531,Multi-channeled clear-thinking access,Jouets,177.07,f
+533,SKU-000532,Profit-focused static support,Mode,308.20,t
+534,SKU-000533,Mandatory secondary challenge,Électronique,39.37,t
+535,SKU-000534,Reverse-engineered intermediate function,Mode,257.52,t
+536,SKU-000535,Managed fresh-thinking contingency,Maison,476.49,t
+537,SKU-000536,Compatible mobile hierarchy,Alimentation,339.69,t
+538,SKU-000537,Centralized executive orchestration,Maison,35.48,t
+539,SKU-000538,Secured national model,Mode,182.35,t
+540,SKU-000539,Proactive multi-tasking challenge,Électronique,303.34,t
+541,SKU-000540,Reverse-engineered next generation middleware,Mode,187.26,t
+542,SKU-000541,Pre-emptive client-server Local Area Network,Alimentation,70.57,t
+543,SKU-000542,Multi-lateral exuding support,Mode,325.48,t
+544,SKU-000543,Grass-roots client-server concept,Informatique,14.90,t
+545,SKU-000544,Adaptive intermediate archive,Beauté,194.72,t
+546,SKU-000545,Synergized tangible neural-net,Sport,387.93,t
+547,SKU-000546,Multi-lateral system-worthy analyzer,Jardin,498.19,t
+548,SKU-000547,Operative real-time concept,Jouets,101.69,t
+549,SKU-000548,Right-sized national Local Area Network,Informatique,227.12,t
+550,SKU-000549,Synergistic discrete project,Jouets,498.64,t
+551,SKU-000550,Progressive intermediate toolset,Mode,334.58,t
+552,SKU-000551,Synergized even-keeled alliance,Beauté,272.00,t
+553,SKU-000552,Centralized homogeneous website,Maison,356.48,t
+554,SKU-000553,Polarized client-driven function,Maison,397.26,t
+555,SKU-000554,Operative intermediate customer loyalty,Informatique,492.60,t
+556,SKU-000555,Reduced 5thgeneration encryption,Jardin,395.61,f
+557,SKU-000556,Diverse background extranet,Beauté,286.99,t
+558,SKU-000557,Fully-configurable analyzing core,Beauté,66.63,t
+559,SKU-000558,Cross-group needs-based standardization,Informatique,156.03,t
+560,SKU-000559,Ergonomic non-volatile encoding,Jouets,263.80,t
+561,SKU-000560,Front-line 3rdgeneration artificial intelligence,Alimentation,38.73,t
+562,SKU-000561,Customer-focused bifurcated website,Informatique,226.09,t
+563,SKU-000562,Profound empowering secured line,Mode,65.91,t
+564,SKU-000563,Ameliorated impactful help-desk,Beauté,320.62,t
+565,SKU-000564,Function-based motivating monitoring,Maison,217.44,t
+566,SKU-000565,Inverse global model,Électronique,416.03,t
+567,SKU-000566,Proactive foreground hub,Sport,84.00,t
+568,SKU-000567,Devolved tangible frame,Jardin,174.32,t
+569,SKU-000568,Multi-channeled coherent open system,Sport,423.27,t
+570,SKU-000569,Object-based bi-directional Graphical User Interface,Beauté,138.68,t
+571,SKU-000570,Compatible even-keeled core,Alimentation,267.67,t
+572,SKU-000571,Open-source real-time knowledgebase,Maison,296.72,t
+573,SKU-000572,Function-based grid-enabled knowledgebase,Maison,330.05,t
+574,SKU-000573,Triple-buffered multi-state data-warehouse,Alimentation,170.13,t
+575,SKU-000574,Intuitive asynchronous knowledge user,Électronique,412.97,f
+576,SKU-000575,Re-engineered needs-based customer loyalty,Électronique,474.38,t
+577,SKU-000576,Streamlined motivating knowledgebase,Sport,326.26,t
+578,SKU-000577,Universal background protocol,Livres,309.82,f
+579,SKU-000578,Front-line full-range hardware,Beauté,146.26,t
+580,SKU-000579,Object-based interactive process improvement,Jouets,123.95,t
+581,SKU-000580,Optional dynamic protocol,Livres,150.12,f
+582,SKU-000581,Expanded needs-based structure,Électronique,80.72,t
+583,SKU-000582,Re-engineered heuristic strategy,Jouets,103.60,t
+584,SKU-000583,User-friendly national Internet solution,Mode,431.02,t
+585,SKU-000584,Synchronized eco-centric architecture,Mode,487.74,t
+586,SKU-000585,Persistent solution-oriented monitoring,Mode,258.46,t
+587,SKU-000586,Digitized fresh-thinking software,Jardin,234.30,t
+588,SKU-000587,Networked 6thgeneration solution,Jardin,72.16,f
+589,SKU-000588,Decentralized radical pricing structure,Livres,432.35,t
+590,SKU-000589,User-friendly optimal budgetary management,Maison,407.11,t
+591,SKU-000590,Vision-oriented user-facing Internet solution,Mode,96.54,t
+592,SKU-000591,De-engineered empowering interface,Beauté,234.47,t
+593,SKU-000592,Robust fault-tolerant productivity,Jouets,13.54,t
+594,SKU-000593,Phased intangible strategy,Beauté,229.70,t
+595,SKU-000594,Down-sized optimizing customer loyalty,Alimentation,177.74,f
+596,SKU-000595,Object-based systemic monitoring,Jouets,299.56,t
+597,SKU-000596,Horizontal client-driven Internet solution,Jouets,144.30,f
+598,SKU-000597,Progressive high-level budgetary management,Informatique,216.60,t
+599,SKU-000598,Pre-emptive optimizing knowledgebase,Mode,382.40,t
+600,SKU-000599,Ergonomic intermediate matrices,Livres,27.48,t
+601,SKU-000600,Re-contextualized upward-trending portal,Mode,277.51,f
+602,SKU-000601,Business-focused background ability,Beauté,226.28,t
+603,SKU-000602,De-engineered solution-oriented methodology,Alimentation,340.84,t
+604,SKU-000603,Compatible real-time task-force,Informatique,198.16,t
+605,SKU-000604,Centralized systematic toolset,Mode,279.80,t
+606,SKU-000605,Secured foreground success,Maison,101.13,t
+607,SKU-000606,User-centric systematic capacity,Beauté,22.05,f
+608,SKU-000607,Advanced content-based moratorium,Mode,402.37,t
+609,SKU-000608,Switchable logistical complexity,Maison,303.92,t
+610,SKU-000609,Cross-platform clear-thinking capability,Mode,465.82,t
+611,SKU-000610,Vision-oriented high-level productivity,Livres,495.33,t
+612,SKU-000611,Compatible object-oriented analyzer,Sport,297.67,t
+613,SKU-000612,Sharable even-keeled help-desk,Beauté,267.11,t
+614,SKU-000613,Upgradable homogeneous concept,Sport,238.50,f
+615,SKU-000614,Integrated uniform flexibility,Mode,337.56,t
+616,SKU-000615,Operative system-worthy contingency,Alimentation,155.22,t
+617,SKU-000616,Distributed 5thgeneration attitude,Électronique,299.26,t
+618,SKU-000617,Object-based global interface,Alimentation,289.66,t
+619,SKU-000618,Open-source didactic product,Alimentation,241.26,t
+620,SKU-000619,Front-line real-time data-warehouse,Alimentation,387.75,t
+621,SKU-000620,Synergistic heuristic alliance,Jardin,17.72,t
+622,SKU-000621,Programmable coherent forecast,Informatique,97.01,t
+623,SKU-000622,Ergonomic upward-trending capacity,Livres,77.41,t
+624,SKU-000623,Networked clear-thinking Graphic Interface,Livres,251.91,t
+625,SKU-000624,Front-line systematic monitoring,Jouets,436.66,t
+626,SKU-000625,Cross-group even-keeled access,Électronique,353.48,t
+627,SKU-000626,Front-line actuating project,Beauté,163.87,t
+628,SKU-000627,Proactive foreground functionalities,Beauté,189.66,t
+629,SKU-000628,Right-sized web-enabled moderator,Jouets,456.24,t
+630,SKU-000629,Horizontal asymmetric service-desk,Mode,338.58,t
+631,SKU-000630,Grass-roots cohesive approach,Sport,305.82,t
+632,SKU-000631,Digitized executive moderator,Jardin,140.95,t
+633,SKU-000632,Innovative content-based system engine,Sport,386.04,t
+634,SKU-000633,Monitored actuating matrix,Jouets,159.89,t
+635,SKU-000634,Grass-roots holistic access,Sport,145.32,t
+636,SKU-000635,Virtual value-added policy,Beauté,191.09,t
+637,SKU-000636,Extended user-facing encryption,Mode,477.40,t
+638,SKU-000637,Enterprise-wide multimedia application,Sport,22.95,t
+639,SKU-000638,Reduced scalable open system,Informatique,174.49,t
+640,SKU-000639,Robust maximized algorithm,Sport,374.17,t
+641,SKU-000640,Devolved empowering flexibility,Beauté,137.02,t
+642,SKU-000641,Adaptive exuding toolset,Sport,70.36,t
+643,SKU-000642,Exclusive background algorithm,Alimentation,121.16,f
+644,SKU-000643,Secured 24/7 Local Area Network,Beauté,114.38,t
+645,SKU-000644,Polarized bandwidth-monitored secured line,Informatique,207.82,t
+646,SKU-000645,Realigned context-sensitive encoding,Informatique,341.23,t
+647,SKU-000646,Synergistic full-range standardization,Beauté,489.00,t
+648,SKU-000647,Team-oriented disintermediate capacity,Jouets,239.77,t
+649,SKU-000648,Versatile mobile leverage,Sport,161.94,t
+650,SKU-000649,Self-enabling secondary definition,Informatique,326.84,t
+651,SKU-000650,Pre-emptive intermediate help-desk,Électronique,456.79,t
+652,SKU-000651,Mandatory eco-centric intranet,Maison,467.09,f
+653,SKU-000652,Object-based asymmetric intranet,Livres,394.40,t
+654,SKU-000653,De-engineered leadingedge help-desk,Sport,438.62,f
+655,SKU-000654,Phased directional Graphical User Interface,Alimentation,302.19,t
+656,SKU-000655,Inverse fault-tolerant open architecture,Mode,143.71,t
+657,SKU-000656,Customer-focused executive Local Area Network,Beauté,263.11,t
+658,SKU-000657,Cross-platform contextually-based info-mediaries,Maison,425.83,t
+659,SKU-000658,Open-source interactive benchmark,Jardin,404.79,t
+660,SKU-000659,Mandatory systemic encryption,Jouets,324.85,t
+661,SKU-000660,Reduced didactic website,Électronique,368.84,t
+662,SKU-000661,Visionary object-oriented synergy,Alimentation,337.85,t
+663,SKU-000662,De-engineered real-time flexibility,Alimentation,428.36,t
+664,SKU-000663,Enhanced maximized strategy,Livres,258.61,f
+665,SKU-000664,Business-focused client-driven architecture,Informatique,94.02,t
+666,SKU-000665,Monitored analyzing project,Mode,468.04,f
+667,SKU-000666,Cross-platform demand-driven extranet,Livres,119.29,t
+668,SKU-000667,Face-to-face scalable encryption,Mode,152.37,t
+669,SKU-000668,Re-contextualized actuating Internet solution,Électronique,132.25,t
+670,SKU-000669,Diverse methodical process improvement,Jardin,32.94,t
+671,SKU-000670,User-centric needs-based pricing structure,Sport,81.54,t
+672,SKU-000671,Stand-alone full-range middleware,Sport,345.76,t
+673,SKU-000672,Enterprise-wide executive workforce,Sport,185.04,t
+674,SKU-000673,Organized methodical core,Maison,240.13,t
+675,SKU-000674,Extended tertiary open system,Alimentation,188.07,t
+676,SKU-000675,Cloned clear-thinking portal,Jouets,379.16,t
+677,SKU-000676,Robust 6thgeneration definition,Jardin,381.41,t
+678,SKU-000677,Organized bifurcated solution,Alimentation,436.82,f
+679,SKU-000678,Right-sized bifurcated circuit,Jouets,265.03,t
+680,SKU-000679,Organic grid-enabled policy,Alimentation,57.88,t
+681,SKU-000680,Fully-configurable non-volatile standardization,Beauté,102.67,t
+682,SKU-000681,Multi-lateral foreground Local Area Network,Maison,165.40,t
+683,SKU-000682,Synchronized background forecast,Informatique,340.79,t
+684,SKU-000683,Enterprise-wide attitude-oriented utilization,Jouets,47.29,t
+685,SKU-000684,User-centric background instruction set,Électronique,227.81,t
+686,SKU-000685,Synergistic contextually-based conglomeration,Jouets,282.83,t
+687,SKU-000686,Automated tertiary infrastructure,Sport,362.19,t
+688,SKU-000687,Streamlined uniform service-desk,Électronique,373.41,t
+689,SKU-000688,Inverse radical array,Électronique,213.00,t
+690,SKU-000689,Balanced 24hour structure,Beauté,497.07,t
+691,SKU-000690,Grass-roots eco-centric core,Informatique,493.10,t
+692,SKU-000691,Object-based eco-centric data-warehouse,Sport,205.62,t
+693,SKU-000692,Object-based encompassing frame,Livres,188.48,t
+694,SKU-000693,Function-based demand-driven complexity,Jouets,435.07,t
+695,SKU-000694,User-friendly zero-defect open system,Livres,41.96,t
+696,SKU-000695,Operative optimizing array,Beauté,68.23,t
+697,SKU-000696,Function-based client-server complexity,Informatique,90.88,t
+698,SKU-000697,Team-oriented well-modulated strategy,Beauté,65.42,t
+699,SKU-000698,Adaptive responsive approach,Électronique,378.58,t
+700,SKU-000699,Persistent responsive collaboration,Jouets,337.40,t
+701,SKU-000700,Down-sized leadingedge infrastructure,Beauté,190.88,t
+702,SKU-000701,Universal motivating encoding,Jouets,174.39,t
+703,SKU-000702,Intuitive cohesive Local Area Network,Informatique,18.04,t
+704,SKU-000703,Profound actuating product,Alimentation,383.49,t
+705,SKU-000704,Profit-focused local moratorium,Électronique,121.85,f
+706,SKU-000705,Intuitive static matrices,Alimentation,18.72,t
+707,SKU-000706,Customer-focused analyzing portal,Électronique,123.88,f
+708,SKU-000707,Extended content-based moratorium,Jouets,118.70,t
+709,SKU-000708,Versatile holistic data-warehouse,Électronique,71.79,t
+710,SKU-000709,Balanced 24/7 analyzer,Jardin,408.26,t
+711,SKU-000710,Reverse-engineered 6thgeneration approach,Mode,289.58,t
+712,SKU-000711,Synchronized interactive data-warehouse,Mode,119.98,t
+713,SKU-000712,Sharable client-driven Graphical User Interface,Beauté,112.08,t
+714,SKU-000713,Profound upward-trending interface,Électronique,279.25,t
+715,SKU-000714,Stand-alone methodical knowledge user,Maison,313.74,t
+716,SKU-000715,Managed executive initiative,Jouets,25.35,t
+717,SKU-000716,Multi-layered neutral installation,Livres,393.33,t
+718,SKU-000717,Decentralized mission-critical concept,Livres,205.31,t
+719,SKU-000718,Reactive stable function,Maison,377.70,t
+720,SKU-000719,Persistent solution-oriented algorithm,Jardin,151.77,t
+721,SKU-000720,Front-line explicit focus group,Jouets,457.54,t
+722,SKU-000721,Operative scalable data-warehouse,Livres,279.53,t
+723,SKU-000722,Face-to-face contextually-based structure,Jardin,128.99,t
+724,SKU-000723,Horizontal homogeneous help-desk,Informatique,461.27,t
+725,SKU-000724,Streamlined zero tolerance task-force,Informatique,268.75,t
+726,SKU-000725,Synchronized incremental moderator,Électronique,135.69,t
+727,SKU-000726,Horizontal zero administration architecture,Alimentation,21.69,f
+728,SKU-000727,Managed explicit synergy,Alimentation,362.70,t
+729,SKU-000728,Open-source user-facing customer loyalty,Jouets,106.03,t
+730,SKU-000729,Managed bottom-line Local Area Network,Sport,478.60,f
+731,SKU-000730,Intuitive modular database,Jardin,481.11,t
+732,SKU-000731,Intuitive web-enabled architecture,Jouets,457.39,t
+733,SKU-000732,Profound high-level benchmark,Jardin,199.52,t
+734,SKU-000733,Upgradable modular infrastructure,Mode,388.21,t
+735,SKU-000734,Re-contextualized systematic info-mediaries,Beauté,325.06,t
+736,SKU-000735,Multi-channeled tertiary open system,Mode,257.38,t
+737,SKU-000736,Multi-lateral optimal installation,Informatique,401.80,t
+738,SKU-000737,Inverse incremental access,Mode,457.34,t
+739,SKU-000738,Balanced zero tolerance productivity,Livres,24.77,t
+740,SKU-000739,Visionary discrete strategy,Maison,10.08,t
+741,SKU-000740,Face-to-face local synergy,Alimentation,290.41,t
+742,SKU-000741,Intuitive coherent contingency,Maison,99.70,t
+743,SKU-000742,Re-contextualized hybrid support,Alimentation,417.01,t
+744,SKU-000743,Future-proofed multi-state extranet,Mode,130.15,t
+745,SKU-000744,Sharable client-driven array,Jouets,231.49,t
+746,SKU-000745,Advanced non-volatile complexity,Mode,86.29,t
+747,SKU-000746,Enterprise-wide clear-thinking Graphic Interface,Jouets,93.66,t
+748,SKU-000747,Cross-group upward-trending firmware,Électronique,262.92,t
+749,SKU-000748,Mandatory heuristic matrices,Informatique,472.70,t
+750,SKU-000749,Reverse-engineered scalable hub,Électronique,207.37,t
+751,SKU-000750,Up-sized dedicated knowledgebase,Jardin,35.85,t
+752,SKU-000751,Stand-alone clear-thinking emulation,Jardin,253.85,t
+753,SKU-000752,Pre-emptive hybrid installation,Alimentation,319.59,t
+754,SKU-000753,Balanced encompassing architecture,Jouets,330.32,f
+755,SKU-000754,Horizontal client-server interface,Beauté,276.72,f
+756,SKU-000755,Integrated didactic approach,Beauté,361.65,t
+757,SKU-000756,Enterprise-wide regional leverage,Sport,10.54,t
+758,SKU-000757,Balanced needs-based archive,Livres,403.47,t
+759,SKU-000758,Face-to-face mobile collaboration,Informatique,459.19,t
+760,SKU-000759,Enhanced optimizing open architecture,Jardin,97.58,t
+761,SKU-000760,Digitized bottom-line adapter,Mode,135.13,t
+762,SKU-000761,Secured zero-defect customer loyalty,Mode,479.73,t
+763,SKU-000762,Multi-lateral scalable system engine,Jardin,495.14,t
+764,SKU-000763,Distributed fault-tolerant secured line,Informatique,327.56,t
+765,SKU-000764,Ergonomic real-time collaboration,Électronique,48.56,t
+766,SKU-000765,Down-sized real-time productivity,Beauté,239.05,t
+767,SKU-000766,Multi-layered 5thgeneration array,Maison,43.18,t
+768,SKU-000767,Universal systematic secured line,Mode,283.80,t
+769,SKU-000768,Integrated non-volatile infrastructure,Informatique,447.61,t
+770,SKU-000769,Devolved next generation firmware,Jardin,107.29,t
+771,SKU-000770,Assimilated logistical workforce,Alimentation,238.80,f
+772,SKU-000771,Optional systematic project,Informatique,342.85,t
+773,SKU-000772,Synchronized optimizing workforce,Beauté,282.63,f
+774,SKU-000773,Managed dedicated portal,Mode,9.80,t
+775,SKU-000774,Business-focused needs-based Local Area Network,Maison,376.62,t
+776,SKU-000775,Public-key didactic protocol,Livres,464.58,t
+777,SKU-000776,Switchable explicit system engine,Alimentation,121.76,t
+778,SKU-000777,Proactive impactful knowledgebase,Livres,339.16,t
+779,SKU-000778,Synergized regional algorithm,Livres,378.29,t
+780,SKU-000779,Business-focused leadingedge middleware,Informatique,251.39,t
+781,SKU-000780,Distributed fault-tolerant framework,Électronique,50.65,t
+782,SKU-000781,Open-architected intermediate infrastructure,Informatique,171.62,t
+783,SKU-000782,Multi-tiered real-time function,Alimentation,199.56,t
+784,SKU-000783,Team-oriented next generation definition,Électronique,317.79,t
+785,SKU-000784,Optional systemic ability,Jouets,246.32,t
+786,SKU-000785,Synergized non-volatile productivity,Livres,217.06,t
+787,SKU-000786,Integrated demand-driven model,Livres,44.68,t
+788,SKU-000787,Open-source motivating complexity,Jardin,357.13,f
+789,SKU-000788,Synergized value-added help-desk,Maison,191.24,t
+790,SKU-000789,Upgradable 3rdgeneration moderator,Maison,370.35,t
+791,SKU-000790,Inverse full-range paradigm,Informatique,47.58,t
+792,SKU-000791,Enterprise-wide full-range toolset,Jouets,181.24,t
+793,SKU-000792,Sharable interactive concept,Maison,45.47,t
+794,SKU-000793,Re-engineered mission-critical utilization,Beauté,278.26,t
+795,SKU-000794,Enterprise-wide homogeneous implementation,Électronique,46.63,t
+796,SKU-000795,Re-contextualized web-enabled circuit,Alimentation,299.83,t
+797,SKU-000796,Expanded zero-defect circuit,Livres,8.15,t
+798,SKU-000797,Inverse local support,Informatique,362.97,t
+799,SKU-000798,Diverse mobile encryption,Jardin,286.84,t
+800,SKU-000799,Self-enabling exuding structure,Livres,86.41,t
+801,SKU-000800,Open-source needs-based structure,Sport,247.58,f
+802,SKU-000801,Robust transitional concept,Livres,139.43,t
+803,SKU-000802,Phased analyzing superstructure,Informatique,181.84,t
+804,SKU-000803,Synergized encompassing Local Area Network,Jouets,297.72,t
+805,SKU-000804,Enhanced content-based time-frame,Informatique,69.47,f
+806,SKU-000805,Synergistic systemic encoding,Livres,167.44,t
+807,SKU-000806,Function-based scalable extranet,Mode,221.23,t
+808,SKU-000807,Optional intangible infrastructure,Alimentation,69.79,t
+809,SKU-000808,Customer-focused 6thgeneration help-desk,Jardin,240.55,t
+810,SKU-000809,Cross-platform exuding policy,Livres,484.43,t
+811,SKU-000810,Upgradable value-added info-mediaries,Jouets,483.95,t
+812,SKU-000811,Cross-group needs-based application,Mode,189.28,t
+813,SKU-000812,Multi-tiered multimedia infrastructure,Livres,183.78,t
+814,SKU-000813,Down-sized motivating neural-net,Jardin,296.93,t
+815,SKU-000814,Networked web-enabled support,Beauté,15.40,t
+816,SKU-000815,User-friendly multi-state standardization,Jardin,220.35,t
+817,SKU-000816,Programmable methodical pricing structure,Informatique,409.84,t
+818,SKU-000817,Down-sized encompassing extranet,Livres,337.14,t
+819,SKU-000818,Robust eco-centric adapter,Sport,122.53,t
+820,SKU-000819,Versatile dynamic software,Livres,394.96,f
+821,SKU-000820,Virtual solution-oriented service-desk,Alimentation,240.66,t
+822,SKU-000821,Secured high-level artificial intelligence,Beauté,461.90,t
+823,SKU-000822,Programmable interactive process improvement,Livres,272.74,t
+824,SKU-000823,Triple-buffered fresh-thinking instruction set,Mode,351.41,t
+825,SKU-000824,Cross-group discrete secured line,Alimentation,319.81,f
+826,SKU-000825,Innovative encompassing application,Jardin,329.49,t
+827,SKU-000826,Realigned needs-based emulation,Alimentation,24.06,t
+828,SKU-000827,Total solution-oriented encoding,Livres,483.47,t
+829,SKU-000828,Cross-platform needs-based encryption,Livres,54.76,f
+830,SKU-000829,Quality-focused 4thgeneration capability,Jardin,256.32,t
+831,SKU-000830,Object-based optimal support,Alimentation,344.46,t
+832,SKU-000831,Ergonomic encompassing leverage,Mode,196.78,t
+833,SKU-000832,Operative optimal architecture,Alimentation,345.84,t
+834,SKU-000833,Devolved secondary utilization,Électronique,242.42,t
+835,SKU-000834,Expanded modular methodology,Informatique,59.80,t
+836,SKU-000835,Robust zero tolerance encryption,Maison,175.47,t
+837,SKU-000836,Self-enabling reciprocal neural-net,Jardin,261.52,t
+838,SKU-000837,Adaptive background time-frame,Informatique,220.21,t
+839,SKU-000838,Synergistic cohesive complexity,Mode,35.45,f
+840,SKU-000839,Assimilated asynchronous info-mediaries,Informatique,13.25,t
+841,SKU-000840,Extended bandwidth-monitored middleware,Informatique,339.22,t
+842,SKU-000841,Virtual high-level contingency,Jardin,258.96,t
+843,SKU-000842,Assimilated 24hour product,Mode,280.80,t
+844,SKU-000843,Distributed disintermediate paradigm,Jardin,399.28,t
+845,SKU-000844,Cross-platform high-level collaboration,Maison,320.96,t
+846,SKU-000845,Extended asynchronous core,Électronique,369.22,t
+847,SKU-000846,Fully-configurable hybrid productivity,Jouets,296.92,t
+848,SKU-000847,Virtual systemic data-warehouse,Jardin,104.48,t
+849,SKU-000848,Synergistic asymmetric frame,Informatique,289.52,t
+850,SKU-000849,Visionary 24hour parallelism,Beauté,95.11,t
+928,SKU-000927,Implemented incremental matrix,Maison,125.40,t
+851,SKU-000850,Reactive context-sensitive artificial intelligence,Jouets,58.75,t
+852,SKU-000851,Down-sized mobile analyzer,Jouets,264.80,t
+853,SKU-000852,Enterprise-wide dynamic capability,Alimentation,195.54,t
+854,SKU-000853,Reactive radical interface,Informatique,175.27,t
+855,SKU-000854,Polarized contextually-based alliance,Alimentation,87.92,t
+856,SKU-000855,Customizable contextually-based process improvement,Sport,459.50,t
+857,SKU-000856,Monitored real-time adapter,Maison,157.97,t
+858,SKU-000857,Fully-configurable bandwidth-monitored protocol,Informatique,93.16,t
+859,SKU-000858,Visionary logistical matrix,Beauté,195.45,t
+860,SKU-000859,Sharable foreground initiative,Alimentation,193.09,t
+861,SKU-000860,Re-engineered tangible solution,Beauté,347.33,t
+862,SKU-000861,Advanced 24hour standardization,Maison,278.35,t
+863,SKU-000862,Adaptive system-worthy benchmark,Maison,95.18,t
+864,SKU-000863,Streamlined optimal productivity,Alimentation,28.70,t
+865,SKU-000864,Versatile value-added artificial intelligence,Électronique,243.34,t
+866,SKU-000865,Persistent homogeneous Graphical User Interface,Livres,481.99,t
+867,SKU-000866,Extended web-enabled conglomeration,Jouets,205.75,t
+868,SKU-000867,Implemented fault-tolerant moderator,Jouets,245.37,f
+869,SKU-000868,Front-line eco-centric data-warehouse,Électronique,398.35,t
+870,SKU-000869,Profound zero-defect matrices,Électronique,138.88,t
+871,SKU-000870,Customizable holistic archive,Maison,390.81,t
+872,SKU-000871,Intuitive executive success,Jouets,275.76,t
+873,SKU-000872,Proactive exuding Internet solution,Informatique,135.41,t
+874,SKU-000873,Secured bifurcated budgetary management,Mode,271.94,t
+875,SKU-000874,Persistent responsive approach,Jouets,274.08,t
+876,SKU-000875,Universal system-worthy neural-net,Informatique,368.52,t
+877,SKU-000876,Organized 24/7 challenge,Jardin,150.26,t
+878,SKU-000877,Polarized client-server monitoring,Jouets,132.88,t
+879,SKU-000878,Enterprise-wide 5thgeneration extranet,Informatique,220.66,t
+880,SKU-000879,Business-focused 6thgeneration process improvement,Jardin,106.52,t
+881,SKU-000880,Front-line stable superstructure,Mode,430.80,t
+882,SKU-000881,Up-sized multi-state access,Livres,84.66,t
+883,SKU-000882,Quality-focused upward-trending customer loyalty,Jardin,407.14,t
+884,SKU-000883,Horizontal responsive structure,Alimentation,176.71,t
+885,SKU-000884,Re-contextualized secondary budgetary management,Beauté,85.85,t
+886,SKU-000885,Enhanced demand-driven concept,Sport,146.09,t
+887,SKU-000886,Customizable homogeneous secured line,Beauté,492.77,t
+888,SKU-000887,Synergized 24/7 algorithm,Informatique,69.52,t
+889,SKU-000888,Multi-layered radical strategy,Livres,459.55,t
+890,SKU-000889,Extended context-sensitive firmware,Maison,351.31,t
+891,SKU-000890,Total asynchronous moratorium,Maison,356.27,t
+892,SKU-000891,Focused client-driven software,Livres,245.75,t
+893,SKU-000892,User-centric web-enabled hardware,Sport,314.65,t
+894,SKU-000893,Enterprise-wide transitional knowledge user,Informatique,317.55,t
+895,SKU-000894,Networked cohesive hierarchy,Informatique,202.62,t
+896,SKU-000895,Digitized solution-oriented analyzer,Mode,228.44,t
+897,SKU-000896,Diverse background definition,Alimentation,3.23,t
+898,SKU-000897,Customizable bandwidth-monitored Internet solution,Informatique,366.00,t
+899,SKU-000898,Persistent non-volatile hardware,Mode,425.35,t
+900,SKU-000899,Up-sized explicit concept,Livres,110.48,t
+901,SKU-000900,Progressive value-added data-warehouse,Jardin,248.37,t
+902,SKU-000901,Down-sized human-resource methodology,Sport,170.20,t
+903,SKU-000902,Synergistic 4thgeneration attitude,Alimentation,426.51,t
+904,SKU-000903,User-friendly web-enabled artificial intelligence,Électronique,24.88,t
+905,SKU-000904,Open-architected local middleware,Jouets,10.11,t
+906,SKU-000905,Customizable bifurcated website,Maison,221.76,f
+907,SKU-000906,Optional maximized utilization,Livres,102.75,t
+908,SKU-000907,User-centric national installation,Maison,441.31,t
+909,SKU-000908,User-centric client-driven policy,Sport,48.48,t
+910,SKU-000909,Adaptive context-sensitive functionalities,Informatique,187.18,t
+911,SKU-000910,Cross-platform full-range core,Maison,27.79,t
+912,SKU-000911,Profit-focused hybrid extranet,Jardin,215.76,f
+913,SKU-000912,Versatile composite Internet solution,Informatique,2.54,t
+914,SKU-000913,Organic discrete time-frame,Maison,297.65,t
+915,SKU-000914,Ameliorated composite concept,Jouets,6.62,t
+916,SKU-000915,Balanced reciprocal orchestration,Informatique,494.10,t
+917,SKU-000916,Innovative attitude-oriented matrices,Maison,239.89,t
+918,SKU-000917,Synergized global database,Informatique,365.92,t
+919,SKU-000918,Stand-alone 3rdgeneration forecast,Mode,185.05,t
+920,SKU-000919,Synergistic 24/7 hierarchy,Livres,387.18,t
+921,SKU-000920,Exclusive asynchronous portal,Maison,321.50,t
+922,SKU-000921,Programmable even-keeled time-frame,Informatique,266.19,f
+923,SKU-000922,Compatible analyzing secured line,Maison,221.17,t
+924,SKU-000923,Mandatory 4thgeneration knowledge user,Maison,460.11,t
+925,SKU-000924,Inverse foreground ability,Jouets,430.26,f
+926,SKU-000925,Progressive empowering middleware,Informatique,71.73,t
+927,SKU-000926,Intuitive cohesive neural-net,Livres,177.06,t
+929,SKU-000928,Organized analyzing emulation,Jardin,277.59,t
+930,SKU-000929,Proactive motivating extranet,Alimentation,143.89,t
+931,SKU-000930,Optional local pricing structure,Électronique,424.25,t
+932,SKU-000931,Pre-emptive actuating superstructure,Sport,104.31,t
+933,SKU-000932,Adaptive next generation projection,Jardin,374.43,t
+934,SKU-000933,Up-sized discrete algorithm,Électronique,392.33,t
+935,SKU-000934,Streamlined local infrastructure,Jardin,248.45,t
+936,SKU-000935,Future-proofed stable frame,Jouets,319.77,f
+937,SKU-000936,Balanced global migration,Électronique,493.47,t
+938,SKU-000937,Focused fresh-thinking Graphic Interface,Maison,194.65,t
+939,SKU-000938,Universal 24hour artificial intelligence,Livres,183.98,t
+940,SKU-000939,Proactive cohesive intranet,Jouets,477.32,t
+941,SKU-000940,Down-sized logistical project,Électronique,294.51,f
+942,SKU-000941,Right-sized leadingedge encryption,Jardin,21.83,f
+943,SKU-000942,Up-sized client-driven neural-net,Livres,254.29,t
+944,SKU-000943,Enterprise-wide non-volatile algorithm,Beauté,384.02,t
+945,SKU-000944,Decentralized system-worthy neural-net,Livres,43.05,t
+946,SKU-000945,Front-line clear-thinking access,Alimentation,78.03,f
+947,SKU-000946,Multi-lateral bi-directional array,Informatique,256.63,t
+948,SKU-000947,Versatile cohesive architecture,Maison,269.12,t
+949,SKU-000948,Ergonomic eco-centric algorithm,Informatique,156.46,t
+950,SKU-000949,Optimized dedicated info-mediaries,Jardin,30.84,f
+951,SKU-000950,Public-key 4thgeneration archive,Livres,59.76,t
+952,SKU-000951,Secured radical analyzer,Électronique,156.03,t
+953,SKU-000952,Multi-lateral 4thgeneration conglomeration,Maison,61.48,t
+954,SKU-000953,Innovative 6thgeneration initiative,Électronique,83.59,t
+955,SKU-000954,Intuitive asymmetric architecture,Beauté,259.58,t
+956,SKU-000955,Synergistic methodical productivity,Sport,85.15,t
+957,SKU-000956,Universal encompassing leverage,Sport,367.00,t
+958,SKU-000957,Compatible uniform array,Électronique,168.84,t
+959,SKU-000958,Persevering actuating secured line,Beauté,33.81,t
+960,SKU-000959,Object-based encompassing moratorium,Alimentation,314.51,t
+961,SKU-000960,Multi-channeled leadingedge open system,Beauté,181.34,t
+962,SKU-000961,Optional multimedia open architecture,Alimentation,85.11,t
+963,SKU-000962,Open-architected content-based product,Informatique,447.35,t
+964,SKU-000963,Switchable background complexity,Informatique,115.75,t
+965,SKU-000964,Function-based analyzing knowledge user,Électronique,429.63,f
+966,SKU-000965,User-centric stable portal,Électronique,236.94,t
+967,SKU-000966,Assimilated fault-tolerant productivity,Maison,91.12,t
+968,SKU-000967,Innovative needs-based software,Électronique,277.33,t
+969,SKU-000968,Configurable dynamic moratorium,Livres,113.81,t
+970,SKU-000969,Switchable multi-state capability,Mode,137.09,f
+971,SKU-000970,Re-engineered analyzing capability,Mode,61.46,t
+972,SKU-000971,Cross-platform web-enabled focus group,Électronique,91.31,t
+973,SKU-000972,Managed tangible installation,Électronique,477.13,f
+974,SKU-000973,Proactive system-worthy initiative,Jouets,433.28,t
+975,SKU-000974,Persistent leadingedge instruction set,Sport,165.00,t
+976,SKU-000975,Compatible optimal Graphical User Interface,Électronique,185.72,t
+977,SKU-000976,De-engineered encompassing open system,Sport,370.31,t
+978,SKU-000977,Open-architected user-facing algorithm,Mode,296.66,t
+979,SKU-000978,Cross-platform mission-critical alliance,Jardin,366.77,t
+980,SKU-000979,Re-contextualized coherent utilization,Jardin,76.98,t
+981,SKU-000980,Cross-platform local interface,Électronique,118.03,t
+982,SKU-000981,Integrated full-range archive,Électronique,475.59,f
+983,SKU-000982,Polarized maximized task-force,Livres,424.80,t
+984,SKU-000983,Balanced clear-thinking collaboration,Informatique,104.19,t
+985,SKU-000984,Synchronized demand-driven open architecture,Livres,247.03,f
+986,SKU-000985,Adaptive eco-centric strategy,Maison,356.40,f
+987,SKU-000986,Monitored discrete function,Jardin,448.85,t
+988,SKU-000987,Organized motivating complexity,Mode,230.31,t
+989,SKU-000988,Organic logistical protocol,Alimentation,49.60,t
+990,SKU-000989,Devolved fresh-thinking core,Livres,39.27,t
+991,SKU-000990,Upgradable coherent approach,Livres,331.90,t
+992,SKU-000991,Secured heuristic productivity,Sport,131.97,t
+993,SKU-000992,Reverse-engineered secondary solution,Livres,350.96,t
+994,SKU-000993,Enterprise-wide national flexibility,Mode,227.47,t
+995,SKU-000994,Progressive non-volatile open architecture,Jardin,69.78,t
+996,SKU-000995,Phased zero tolerance encoding,Informatique,79.39,t
+997,SKU-000996,Multi-lateral tertiary middleware,Jouets,158.39,t
+998,SKU-000997,Proactive context-sensitive knowledgebase,Mode,482.39,t
+999,SKU-000998,Down-sized regional portal,Sport,232.75,t
+1000,SKU-000999,Ergonomic didactic product,Informatique,80.49,t
+1001,SKU-001000,Up-sized global standardization,Alimentation,22.08,t
+1002,SKU-001001,Phased systemic product,Mode,75.87,t
+1003,SKU-001002,Ameliorated cohesive standardization,Mode,199.33,f
+1004,SKU-001003,Function-based 4thgeneration pricing structure,Sport,131.56,t
+1005,SKU-001004,Fully-configurable object-oriented middleware,Électronique,476.14,t
+1006,SKU-001005,Open-architected static interface,Beauté,374.54,t
+1007,SKU-001006,Exclusive transitional portal,Jouets,52.75,t
+1008,SKU-001007,Progressive fault-tolerant throughput,Informatique,7.95,t
+1009,SKU-001008,Networked executive monitoring,Jardin,67.10,t
+1010,SKU-001009,Horizontal encompassing challenge,Mode,343.77,t
+1011,SKU-001010,Synergistic logistical encryption,Informatique,292.00,t
+1012,SKU-001011,Reduced next generation emulation,Informatique,12.86,f
+1013,SKU-001012,Intuitive uniform task-force,Jouets,405.03,f
+1014,SKU-001013,Object-based systematic hardware,Mode,63.02,t
+1015,SKU-001014,De-engineered tertiary encoding,Électronique,85.66,t
+1016,SKU-001015,Robust asynchronous neural-net,Livres,249.07,t
+1017,SKU-001016,Upgradable neutral instruction set,Livres,88.06,t
+1018,SKU-001017,Switchable logistical initiative,Maison,138.94,t
+1019,SKU-001018,Down-sized zero tolerance collaboration,Maison,19.26,t
+1020,SKU-001019,Phased dynamic groupware,Jardin,324.34,t
+1021,SKU-001020,Face-to-face disintermediate function,Beauté,240.56,f
+1022,SKU-001021,Adaptive human-resource product,Livres,70.34,t
+1023,SKU-001022,Diverse analyzing benchmark,Beauté,126.08,t
+1024,SKU-001023,Open-source interactive core,Beauté,397.83,t
+1025,SKU-001024,Fully-configurable encompassing time-frame,Mode,240.88,t
+1026,SKU-001025,Centralized bifurcated firmware,Mode,456.51,t
+1027,SKU-001026,Team-oriented client-driven array,Livres,136.68,f
+1028,SKU-001027,Multi-layered hybrid solution,Alimentation,111.07,t
+1029,SKU-001028,Exclusive eco-centric solution,Sport,31.18,t
+1030,SKU-001029,Mandatory context-sensitive instruction set,Beauté,180.00,t
+1031,SKU-001030,Extended impactful concept,Jardin,487.04,t
+1032,SKU-001031,Progressive next generation instruction set,Jardin,134.73,t
+1033,SKU-001032,Enterprise-wide didactic core,Électronique,382.50,t
+1034,SKU-001033,Multi-lateral logistical alliance,Alimentation,423.56,t
+1035,SKU-001034,Horizontal even-keeled flexibility,Mode,467.73,t
+1036,SKU-001035,Multi-lateral high-level website,Maison,89.70,t
+1037,SKU-001036,Universal bottom-line support,Mode,457.16,f
+1038,SKU-001037,Streamlined fault-tolerant database,Mode,473.88,t
+1039,SKU-001038,Future-proofed explicit circuit,Alimentation,474.29,t
+1040,SKU-001039,Configurable asynchronous benchmark,Jouets,271.98,t
+1041,SKU-001040,Persistent global firmware,Électronique,46.95,t
+1042,SKU-001041,Re-engineered empowering frame,Jardin,11.92,t
+1043,SKU-001042,Re-contextualized full-range matrices,Mode,459.11,t
+1044,SKU-001043,Stand-alone executive concept,Maison,171.70,t
+1045,SKU-001044,Virtual attitude-oriented product,Mode,31.66,t
+1046,SKU-001045,Reactive national structure,Maison,387.63,t
+1047,SKU-001046,Innovative context-sensitive product,Mode,480.36,t
+1048,SKU-001047,Visionary exuding implementation,Livres,293.84,t
+1049,SKU-001048,Front-line motivating budgetary management,Mode,69.95,t
+1050,SKU-001049,Multi-lateral asynchronous complexity,Livres,396.34,t
+1051,SKU-001050,Secured bifurcated capability,Mode,88.75,t
+1052,SKU-001051,Open-source encompassing system engine,Alimentation,393.92,t
+1053,SKU-001052,Pre-emptive secondary pricing structure,Alimentation,407.60,t
+1054,SKU-001053,Enhanced eco-centric protocol,Sport,65.42,t
+1055,SKU-001054,Networked executive conglomeration,Alimentation,197.02,t
+1056,SKU-001055,Reverse-engineered radical middleware,Alimentation,18.13,t
+1057,SKU-001056,Organic context-sensitive extranet,Alimentation,112.01,t
+1058,SKU-001057,Organic upward-trending database,Jouets,72.04,t
+1059,SKU-001058,Inverse didactic projection,Jardin,174.71,t
+1060,SKU-001059,Secured regional moderator,Informatique,411.19,t
+1061,SKU-001060,Proactive holistic task-force,Mode,224.42,t
+1062,SKU-001061,Stand-alone non-volatile workforce,Jardin,347.20,t
+1063,SKU-001062,Decentralized high-level encoding,Informatique,360.77,f
+1064,SKU-001063,Adaptive analyzing Local Area Network,Jouets,366.83,t
+1065,SKU-001064,Intuitive bottom-line firmware,Livres,247.55,t
+1066,SKU-001065,Multi-layered solution-oriented archive,Beauté,188.92,t
+1067,SKU-001066,Progressive directional focus group,Alimentation,326.18,t
+1068,SKU-001067,Polarized non-volatile conglomeration,Maison,226.74,t
+1069,SKU-001068,Synergized disintermediate application,Électronique,148.86,t
+1070,SKU-001069,Mandatory maximized open architecture,Informatique,38.95,t
+1071,SKU-001070,Down-sized empowering Graphic Interface,Livres,82.13,f
+1072,SKU-001071,User-centric dedicated archive,Informatique,170.30,t
+1073,SKU-001072,Assimilated uniform middleware,Jouets,352.84,t
+1074,SKU-001073,Cross-group client-driven extranet,Maison,304.44,t
+1075,SKU-001074,Open-architected exuding encoding,Électronique,52.43,t
+1076,SKU-001075,User-friendly mission-critical monitoring,Jardin,205.82,t
+1077,SKU-001076,Sharable systemic info-mediaries,Beauté,134.10,t
+1078,SKU-001077,Down-sized fault-tolerant database,Jardin,49.77,t
+1079,SKU-001078,User-friendly actuating productivity,Beauté,420.25,t
+1080,SKU-001079,Compatible encompassing product,Mode,3.90,f
+1081,SKU-001080,Operative 24/7 interface,Alimentation,241.20,f
+1082,SKU-001081,Operative user-facing synergy,Jardin,87.07,t
+1083,SKU-001082,Reverse-engineered human-resource budgetary management,Informatique,237.84,t
+1084,SKU-001083,Up-sized 4thgeneration implementation,Livres,236.53,t
+1085,SKU-001084,Right-sized responsive installation,Sport,47.39,t
+1086,SKU-001085,Fully-configurable value-added knowledge user,Maison,186.77,t
+1087,SKU-001086,Integrated real-time benchmark,Maison,224.00,t
+1088,SKU-001087,Digitized asymmetric model,Jouets,133.17,t
+1089,SKU-001088,Pre-emptive radical standardization,Alimentation,32.70,t
+1090,SKU-001089,Self-enabling 5thgeneration info-mediaries,Informatique,44.68,t
+1091,SKU-001090,Mandatory 24/7 interface,Beauté,208.17,t
+1092,SKU-001091,Compatible zero administration flexibility,Jardin,277.69,t
+1093,SKU-001092,Organic attitude-oriented hardware,Beauté,210.48,t
+1094,SKU-001093,Reduced 24/7 benchmark,Jouets,287.21,t
+1095,SKU-001094,Customer-focused composite functionalities,Sport,41.32,t
+1096,SKU-001095,Adaptive client-driven superstructure,Électronique,252.05,t
+1097,SKU-001096,Ergonomic attitude-oriented instruction set,Alimentation,339.41,t
+1098,SKU-001097,Balanced 24hour extranet,Informatique,474.73,t
+1099,SKU-001098,Virtual actuating contingency,Maison,486.14,t
+1100,SKU-001099,Polarized composite open architecture,Maison,23.25,f
+1101,SKU-001100,Secured needs-based instruction set,Livres,102.56,t
+1102,SKU-001101,Profound discrete productivity,Maison,417.39,t
+1103,SKU-001102,Devolved bifurcated conglomeration,Informatique,45.34,t
+1104,SKU-001103,Centralized neutral infrastructure,Beauté,164.41,t
+1105,SKU-001104,Configurable empowering synergy,Jouets,458.75,f
+1106,SKU-001105,Total reciprocal neural-net,Alimentation,294.61,t
+1107,SKU-001106,Implemented client-server hub,Informatique,208.39,t
+1108,SKU-001107,Automated maximized process improvement,Alimentation,292.17,t
+1109,SKU-001108,Object-based well-modulated implementation,Informatique,462.61,t
+1110,SKU-001109,Secured real-time productivity,Informatique,393.30,t
+1111,SKU-001110,Versatile local middleware,Mode,439.19,t
+1112,SKU-001111,Fundamental cohesive alliance,Jouets,286.87,t
+1113,SKU-001112,Centralized secondary architecture,Maison,139.16,t
+1114,SKU-001113,Horizontal attitude-oriented focus group,Alimentation,341.04,t
+1115,SKU-001114,Future-proofed client-driven extranet,Livres,445.01,t
+1116,SKU-001115,Object-based 24/7 project,Jardin,26.55,t
+1117,SKU-001116,Phased directional matrix,Sport,448.72,f
+1118,SKU-001117,Down-sized dynamic strategy,Sport,156.85,t
+1119,SKU-001118,Public-key interactive architecture,Informatique,486.30,t
+1120,SKU-001119,Universal heuristic paradigm,Sport,487.16,t
+1121,SKU-001120,Multi-layered composite model,Mode,136.17,t
+1122,SKU-001121,Triple-buffered fresh-thinking support,Informatique,95.59,t
+1123,SKU-001122,Right-sized tertiary policy,Livres,370.99,t
+1124,SKU-001123,Future-proofed logistical Graphic Interface,Mode,410.87,t
+1125,SKU-001124,Switchable methodical standardization,Maison,34.68,t
+1126,SKU-001125,Optional didactic system engine,Livres,69.55,t
+1127,SKU-001126,Pre-emptive tangible task-force,Alimentation,16.42,t
+1128,SKU-001127,Robust motivating concept,Jardin,418.81,t
+1129,SKU-001128,Reverse-engineered discrete algorithm,Jouets,27.18,t
+1130,SKU-001129,Mandatory foreground methodology,Jardin,138.44,t
+1131,SKU-001130,Polarized object-oriented leverage,Beauté,199.68,t
+1132,SKU-001131,Switchable radical project,Électronique,122.49,t
+1133,SKU-001132,Public-key demand-driven info-mediaries,Jouets,90.44,t
+1134,SKU-001133,Organic intermediate adapter,Alimentation,276.56,t
+1135,SKU-001134,Phased fault-tolerant success,Sport,374.98,t
+1136,SKU-001135,Self-enabling bandwidth-monitored analyzer,Sport,15.67,f
+1137,SKU-001136,Multi-layered optimizing data-warehouse,Alimentation,390.36,t
+1138,SKU-001137,Robust encompassing superstructure,Jardin,324.40,t
+1139,SKU-001138,Synergistic national benchmark,Sport,326.49,t
+1140,SKU-001139,Intuitive 24hour throughput,Électronique,238.10,t
+1141,SKU-001140,Grass-roots discrete open system,Maison,301.37,f
+1142,SKU-001141,Centralized disintermediate Graphical User Interface,Sport,304.96,t
+1143,SKU-001142,Optional user-facing algorithm,Sport,213.06,t
+1144,SKU-001143,Devolved multi-tasking help-desk,Mode,230.58,t
+1145,SKU-001144,Visionary neutral product,Sport,339.24,t
+1146,SKU-001145,Open-source regional product,Livres,293.07,f
+1147,SKU-001146,Networked interactive structure,Mode,281.61,t
+1148,SKU-001147,Advanced regional instruction set,Sport,150.64,t
+1149,SKU-001148,Extended heuristic function,Informatique,169.47,t
+1150,SKU-001149,Synergistic maximized infrastructure,Mode,431.02,t
+1151,SKU-001150,Ameliorated mobile Graphic Interface,Sport,95.80,t
+1152,SKU-001151,Configurable composite array,Jardin,450.04,t
+1153,SKU-001152,Centralized background middleware,Alimentation,203.24,t
+1154,SKU-001153,Implemented clear-thinking info-mediaries,Maison,361.20,t
+1155,SKU-001154,Down-sized stable challenge,Sport,131.19,t
+1156,SKU-001155,Multi-tiered fault-tolerant projection,Livres,368.89,t
+1157,SKU-001156,Horizontal bi-directional moderator,Alimentation,408.38,t
+1158,SKU-001157,Ameliorated zero tolerance capacity,Jardin,343.79,t
+1159,SKU-001158,Grass-roots grid-enabled paradigm,Jouets,453.45,t
+1160,SKU-001159,Implemented analyzing middleware,Beauté,151.50,t
+1161,SKU-001160,Monitored zero tolerance portal,Beauté,92.21,f
+1240,SKU-001239,Persevering homogeneous function,Jouets,434.97,f
+1162,SKU-001161,Sharable discrete Graphic Interface,Maison,370.98,t
+1163,SKU-001162,Open-architected holistic encoding,Beauté,381.93,t
+1164,SKU-001163,Mandatory cohesive website,Mode,327.91,t
+1165,SKU-001164,Grass-roots secondary encryption,Jardin,372.62,t
+1166,SKU-001165,Phased zero administration knowledgebase,Mode,187.10,t
+1167,SKU-001166,Virtual upward-trending parallelism,Jouets,425.90,t
+1168,SKU-001167,Managed 5thgeneration knowledge user,Alimentation,291.00,t
+1169,SKU-001168,Up-sized intangible software,Jouets,444.93,t
+1170,SKU-001169,Multi-lateral zero-defect time-frame,Livres,265.86,t
+1171,SKU-001170,Inverse logistical definition,Maison,70.41,t
+1172,SKU-001171,Pre-emptive eco-centric open architecture,Livres,493.62,t
+1173,SKU-001172,User-friendly upward-trending help-desk,Jouets,73.33,t
+1174,SKU-001173,Upgradable value-added collaboration,Maison,389.91,t
+1175,SKU-001174,Managed asynchronous concept,Maison,158.08,f
+1176,SKU-001175,Down-sized full-range synergy,Jouets,138.22,t
+1177,SKU-001176,Reactive explicit instruction set,Maison,288.99,t
+1178,SKU-001177,Persevering optimizing productivity,Informatique,66.44,t
+1179,SKU-001178,Business-focused attitude-oriented protocol,Livres,202.89,t
+1180,SKU-001179,Pre-emptive fresh-thinking throughput,Livres,4.33,t
+1181,SKU-001180,Down-sized cohesive matrices,Mode,475.13,t
+1182,SKU-001181,Reverse-engineered web-enabled productivity,Beauté,96.91,t
+1183,SKU-001182,Enhanced regional focus group,Jardin,114.68,t
+1184,SKU-001183,Re-contextualized systemic task-force,Sport,66.21,t
+1185,SKU-001184,Optimized fresh-thinking complexity,Alimentation,154.45,f
+1186,SKU-001185,Expanded zero tolerance process improvement,Électronique,150.50,t
+1187,SKU-001186,Object-based modular extranet,Beauté,298.99,t
+1188,SKU-001187,Synergistic optimal open system,Maison,172.68,t
+1189,SKU-001188,Seamless actuating circuit,Mode,375.56,t
+1190,SKU-001189,Centralized directional secured line,Livres,11.52,t
+1191,SKU-001190,Programmable global flexibility,Maison,107.17,f
+1192,SKU-001191,Automated leadingedge ability,Beauté,86.15,t
+1193,SKU-001192,Centralized next generation firmware,Électronique,188.85,t
+1194,SKU-001193,Virtual background Graphical User Interface,Beauté,312.32,t
+1195,SKU-001194,Re-engineered transitional artificial intelligence,Électronique,331.66,t
+1196,SKU-001195,De-engineered executive circuit,Électronique,26.02,t
+1197,SKU-001196,Operative non-volatile support,Jouets,191.37,t
+1198,SKU-001197,Intuitive methodical functionalities,Jouets,351.53,t
+1199,SKU-001198,Face-to-face system-worthy moratorium,Électronique,151.96,t
+1200,SKU-001199,Mandatory asymmetric strategy,Beauté,136.45,t
+1201,SKU-001200,Exclusive systematic portal,Maison,210.58,t
+1202,SKU-001201,Polarized homogeneous strategy,Beauté,359.95,t
+1203,SKU-001202,Fully-configurable full-range complexity,Informatique,392.81,t
+1204,SKU-001203,Seamless executive instruction set,Alimentation,101.48,t
+1205,SKU-001204,Compatible fault-tolerant capacity,Beauté,486.61,t
+1206,SKU-001205,Up-sized intermediate synergy,Livres,149.08,f
+1207,SKU-001206,Down-sized 3rdgeneration flexibility,Jouets,455.36,t
+1208,SKU-001207,Centralized multimedia help-desk,Jouets,166.64,f
+1209,SKU-001208,Digitized 3rdgeneration infrastructure,Informatique,453.63,t
+1210,SKU-001209,Fully-configurable demand-driven firmware,Jouets,76.27,f
+1211,SKU-001210,Open-source asynchronous architecture,Beauté,39.37,t
+1212,SKU-001211,Progressive radical methodology,Sport,322.88,t
+1213,SKU-001212,Progressive modular core,Sport,133.53,f
+1214,SKU-001213,Organized client-server model,Maison,437.32,t
+1215,SKU-001214,Enhanced solution-oriented implementation,Mode,401.19,t
+1216,SKU-001215,Monitored real-time core,Informatique,49.31,t
+1217,SKU-001216,Switchable didactic solution,Électronique,6.82,t
+1218,SKU-001217,Profit-focused 6thgeneration forecast,Maison,165.67,t
+1219,SKU-001218,Customer-focused transitional pricing structure,Alimentation,135.62,t
+1220,SKU-001219,Cloned mission-critical artificial intelligence,Mode,407.85,t
+1221,SKU-001220,Networked actuating encryption,Livres,201.32,t
+1222,SKU-001221,Exclusive user-facing website,Livres,345.57,t
+1223,SKU-001222,Synergistic discrete approach,Livres,325.13,t
+1224,SKU-001223,Profit-focused holistic frame,Informatique,67.99,t
+1225,SKU-001224,Horizontal background moderator,Maison,53.65,t
+1226,SKU-001225,Streamlined exuding encryption,Jouets,401.53,t
+1227,SKU-001226,Operative solution-oriented website,Maison,306.44,t
+1228,SKU-001227,Optional actuating secured line,Alimentation,16.35,t
+1229,SKU-001228,Enterprise-wide systematic adapter,Maison,242.57,t
+1230,SKU-001229,Self-enabling real-time customer loyalty,Livres,221.46,f
+1231,SKU-001230,Cross-group directional leverage,Mode,8.16,t
+1232,SKU-001231,Reactive needs-based application,Beauté,384.23,t
+1233,SKU-001232,Upgradable cohesive software,Alimentation,113.54,t
+1234,SKU-001233,Cloned 5thgeneration paradigm,Mode,260.51,t
+1235,SKU-001234,Front-line intangible matrix,Alimentation,49.43,t
+1236,SKU-001235,Up-sized uniform installation,Jardin,242.00,t
+1237,SKU-001236,Proactive logistical toolset,Livres,76.03,t
+1238,SKU-001237,Persistent logistical encoding,Alimentation,29.17,t
+1239,SKU-001238,Operative global task-force,Maison,253.77,t
+1241,SKU-001240,Multi-channeled grid-enabled framework,Jouets,161.68,t
+1242,SKU-001241,Managed regional approach,Sport,27.07,t
+1243,SKU-001242,Expanded eco-centric middleware,Livres,202.83,t
+1244,SKU-001243,Customizable reciprocal groupware,Jouets,223.21,t
+1245,SKU-001244,Total eco-centric customer loyalty,Informatique,428.58,t
+1246,SKU-001245,Multi-channeled zero administration support,Informatique,490.37,t
+1247,SKU-001246,Up-sized bifurcated benchmark,Électronique,53.12,t
+1248,SKU-001247,Business-focused client-driven implementation,Beauté,275.45,t
+1249,SKU-001248,Secured demand-driven orchestration,Alimentation,481.66,t
+1250,SKU-001249,Intuitive holistic database,Beauté,282.04,t
+1251,SKU-001250,Front-line actuating monitoring,Jouets,475.28,t
+1252,SKU-001251,Secured upward-trending system engine,Électronique,408.66,t
+1253,SKU-001252,Devolved content-based solution,Mode,280.96,t
+1254,SKU-001253,Fully-configurable content-based projection,Jouets,358.90,t
+1255,SKU-001254,Configurable demand-driven hierarchy,Jouets,58.78,t
+1256,SKU-001255,Synergistic value-added architecture,Jardin,3.09,t
+1257,SKU-001256,Integrated solution-oriented model,Sport,274.75,t
+1258,SKU-001257,Intuitive global synergy,Informatique,24.80,t
+1259,SKU-001258,Assimilated maximized adapter,Maison,411.28,t
+1260,SKU-001259,Digitized homogeneous extranet,Livres,55.27,t
+1261,SKU-001260,Ameliorated intermediate challenge,Jardin,62.13,t
+1262,SKU-001261,Optimized 24/7 info-mediaries,Jardin,229.61,t
+1263,SKU-001262,Organic executive structure,Mode,55.67,t
+1264,SKU-001263,Customer-focused foreground product,Alimentation,63.36,t
+1265,SKU-001264,Decentralized value-added framework,Jouets,329.91,t
+1266,SKU-001265,Integrated motivating matrices,Maison,482.00,f
+1267,SKU-001266,Optional cohesive benchmark,Électronique,277.51,t
+1268,SKU-001267,Operative executive open architecture,Alimentation,242.50,t
+1269,SKU-001268,Fully-configurable user-facing extranet,Maison,346.53,t
+1270,SKU-001269,Switchable client-driven knowledgebase,Maison,53.57,t
+1271,SKU-001270,Total optimal knowledgebase,Alimentation,441.58,t
+1272,SKU-001271,Fully-configurable actuating conglomeration,Livres,210.50,t
+1273,SKU-001272,Reduced executive application,Jardin,138.25,t
+1274,SKU-001273,Optional non-volatile Graphic Interface,Sport,227.52,t
+1275,SKU-001274,Polarized composite hardware,Livres,302.06,t
+1276,SKU-001275,Down-sized static alliance,Beauté,150.86,t
+1277,SKU-001276,Diverse discrete support,Mode,356.51,t
+1278,SKU-001277,Vision-oriented high-level middleware,Jardin,102.04,t
+1279,SKU-001278,Secured demand-driven knowledgebase,Sport,343.93,t
+1280,SKU-001279,Persistent zero administration budgetary management,Maison,490.71,t
+1281,SKU-001280,Diverse holistic moratorium,Maison,252.94,t
+1282,SKU-001281,Enterprise-wide national firmware,Mode,355.76,t
+1283,SKU-001282,Progressive zero administration open architecture,Beauté,241.22,t
+1284,SKU-001283,Robust attitude-oriented parallelism,Livres,337.77,t
+1285,SKU-001284,Synchronized transitional parallelism,Beauté,144.39,t
+1286,SKU-001285,Innovative real-time help-desk,Électronique,262.32,f
+1287,SKU-001286,Configurable human-resource service-desk,Maison,28.43,f
+1288,SKU-001287,Up-sized full-range process improvement,Sport,375.59,t
+1289,SKU-001288,Reduced asymmetric synergy,Sport,342.33,t
+1290,SKU-001289,Triple-buffered tangible paradigm,Électronique,345.92,t
+1291,SKU-001290,Grass-roots foreground infrastructure,Beauté,18.09,t
+1292,SKU-001291,Switchable explicit framework,Informatique,308.82,t
+1293,SKU-001292,Optional eco-centric throughput,Beauté,432.69,t
+1294,SKU-001293,Inverse client-server encoding,Beauté,195.67,t
+1295,SKU-001294,Reduced 24hour algorithm,Sport,347.08,f
+1296,SKU-001295,Fundamental asynchronous hub,Livres,195.00,t
+1297,SKU-001296,Down-sized exuding collaboration,Mode,482.98,f
+1298,SKU-001297,User-centric multi-tasking implementation,Sport,103.14,t
+1299,SKU-001298,Proactive national hierarchy,Jouets,415.33,t
+1300,SKU-001299,Managed eco-centric methodology,Mode,378.04,t
+1301,SKU-001300,Advanced zero tolerance architecture,Alimentation,99.84,t
+1302,SKU-001301,Profit-focused optimizing leverage,Jardin,148.50,t
+1303,SKU-001302,Virtual mobile policy,Informatique,95.11,t
+1304,SKU-001303,Synergized grid-enabled task-force,Beauté,61.44,f
+1305,SKU-001304,Balanced bottom-line software,Sport,279.19,t
+1306,SKU-001305,Innovative homogeneous knowledge user,Alimentation,423.32,f
+1307,SKU-001306,Balanced value-added pricing structure,Jouets,355.43,t
+1308,SKU-001307,Synergistic web-enabled emulation,Maison,464.46,t
+1309,SKU-001308,Optimized mobile circuit,Alimentation,421.88,t
+1310,SKU-001309,Virtual secondary Graphical User Interface,Alimentation,275.98,f
+1311,SKU-001310,Balanced value-added capacity,Mode,263.65,t
+1312,SKU-001311,Profit-focused tangible algorithm,Beauté,35.95,t
+1313,SKU-001312,Centralized system-worthy function,Livres,272.45,t
+1314,SKU-001313,Synchronized asynchronous Local Area Network,Mode,112.16,t
+1315,SKU-001314,Polarized transitional alliance,Mode,166.87,t
+1316,SKU-001315,Sharable modular encoding,Alimentation,266.19,t
+1317,SKU-001316,Future-proofed tangible interface,Électronique,59.13,t
+1318,SKU-001317,Balanced systematic encryption,Jardin,452.44,t
+1319,SKU-001318,Customer-focused incremental attitude,Alimentation,123.43,f
+1320,SKU-001319,Face-to-face stable framework,Mode,191.92,t
+1321,SKU-001320,Advanced value-added matrix,Informatique,194.17,t
+1322,SKU-001321,Reverse-engineered regional capacity,Sport,14.30,t
+1323,SKU-001322,Synergized value-added array,Mode,258.13,t
+1324,SKU-001323,Networked encompassing hardware,Jouets,23.84,t
+1325,SKU-001324,Polarized fresh-thinking conglomeration,Jardin,161.52,f
+1326,SKU-001325,Pre-emptive grid-enabled forecast,Informatique,85.36,t
+1327,SKU-001326,Stand-alone context-sensitive structure,Beauté,267.54,t
+1328,SKU-001327,Profit-focused transitional secured line,Jardin,335.83,t
+1329,SKU-001328,Exclusive clear-thinking task-force,Livres,418.16,t
+1330,SKU-001329,Realigned web-enabled initiative,Livres,323.99,t
+1331,SKU-001330,Pre-emptive systemic middleware,Maison,13.83,t
+1332,SKU-001331,Mandatory background help-desk,Électronique,45.59,f
+1333,SKU-001332,Synergized actuating interface,Sport,279.93,t
+1334,SKU-001333,Object-based multi-state migration,Jardin,455.67,t
+1335,SKU-001334,Cloned grid-enabled help-desk,Jouets,315.85,t
+1336,SKU-001335,User-friendly maximized budgetary management,Électronique,195.97,t
+1337,SKU-001336,Team-oriented fresh-thinking hierarchy,Électronique,321.43,t
+1338,SKU-001337,Operative systematic instruction set,Alimentation,24.67,t
+1339,SKU-001338,Configurable intangible instruction set,Mode,464.17,t
+1340,SKU-001339,Realigned optimal framework,Sport,304.07,t
+1341,SKU-001340,Balanced non-volatile encoding,Jouets,191.94,t
+1342,SKU-001341,Operative value-added encoding,Électronique,238.05,t
+1343,SKU-001342,Networked eco-centric installation,Maison,373.88,t
+1344,SKU-001343,Sharable 24/7 Graphical User Interface,Beauté,148.90,t
+1345,SKU-001344,Re-contextualized holistic functionalities,Sport,339.29,t
+1346,SKU-001345,Decentralized tangible installation,Mode,478.78,f
+1347,SKU-001346,Customizable asynchronous definition,Beauté,72.40,f
+1348,SKU-001347,Expanded optimizing groupware,Alimentation,299.13,t
+1349,SKU-001348,Operative content-based contingency,Informatique,153.74,t
+1350,SKU-001349,De-engineered empowering hub,Mode,107.44,t
+1351,SKU-001350,Compatible multimedia collaboration,Beauté,72.94,t
+1352,SKU-001351,Multi-layered hybrid portal,Alimentation,417.70,t
+1353,SKU-001352,Open-architected asymmetric parallelism,Maison,336.15,t
+1354,SKU-001353,De-engineered attitude-oriented circuit,Électronique,425.99,t
+1355,SKU-001354,Stand-alone tertiary interface,Beauté,231.71,t
+1356,SKU-001355,Re-contextualized local support,Sport,336.50,t
+1357,SKU-001356,Integrated next generation task-force,Jardin,363.34,t
+1358,SKU-001357,Total human-resource paradigm,Mode,179.85,t
+1359,SKU-001358,Pre-emptive neutral framework,Jardin,51.82,t
+1360,SKU-001359,Progressive mission-critical orchestration,Jardin,160.26,t
+1361,SKU-001360,Versatile motivating product,Alimentation,330.39,t
+1362,SKU-001361,Robust incremental support,Maison,283.64,t
+1363,SKU-001362,Exclusive attitude-oriented orchestration,Mode,479.41,t
+1364,SKU-001363,Optimized directional approach,Mode,124.60,t
+1365,SKU-001364,Monitored cohesive methodology,Livres,139.79,t
+1366,SKU-001365,Self-enabling actuating firmware,Mode,439.19,t
+1367,SKU-001366,Triple-buffered demand-driven info-mediaries,Mode,387.83,t
+1368,SKU-001367,Re-engineered contextually-based contingency,Informatique,89.53,t
+1369,SKU-001368,Virtual grid-enabled open system,Sport,429.64,t
+1370,SKU-001369,Upgradable attitude-oriented interface,Beauté,99.82,t
+1371,SKU-001370,Function-based client-driven encoding,Informatique,364.26,t
+1372,SKU-001371,Adaptive bottom-line challenge,Beauté,316.55,t
+1373,SKU-001372,Polarized executive initiative,Alimentation,203.76,t
+1374,SKU-001373,Reverse-engineered transitional throughput,Électronique,276.69,t
+1375,SKU-001374,Advanced bifurcated matrix,Beauté,237.11,t
+1376,SKU-001375,Networked demand-driven benchmark,Mode,197.46,t
+1377,SKU-001376,Versatile real-time array,Alimentation,367.15,t
+1378,SKU-001377,Re-engineered motivating interface,Jouets,251.56,f
+1379,SKU-001378,Fully-configurable maximized software,Mode,252.08,t
+1380,SKU-001379,Streamlined 3rdgeneration moderator,Alimentation,342.71,t
+1381,SKU-001380,Multi-lateral static hardware,Maison,224.22,t
+1382,SKU-001381,Face-to-face human-resource ability,Alimentation,330.39,t
+1383,SKU-001382,Operative zero tolerance collaboration,Jouets,469.71,f
+1384,SKU-001383,Enhanced content-based access,Jouets,117.41,t
+1385,SKU-001384,Open-source content-based hardware,Jardin,23.32,t
+1386,SKU-001385,Operative methodical database,Mode,195.27,t
+1387,SKU-001386,Stand-alone user-facing help-desk,Électronique,21.87,t
+1388,SKU-001387,Pre-emptive logistical hub,Informatique,352.46,t
+1389,SKU-001388,Object-based regional superstructure,Sport,417.77,t
+1390,SKU-001389,Implemented composite throughput,Beauté,285.94,t
+1391,SKU-001390,Robust multi-state function,Livres,183.92,t
+1392,SKU-001391,Cloned 24hour website,Informatique,259.30,t
+1393,SKU-001392,Innovative 24/7 strategy,Jardin,259.15,t
+1394,SKU-001393,Automated didactic synergy,Mode,244.46,t
+1395,SKU-001394,Diverse methodical database,Alimentation,5.29,t
+1396,SKU-001395,Ameliorated didactic system engine,Jouets,84.47,f
+1397,SKU-001396,De-engineered fault-tolerant throughput,Sport,107.34,t
+1398,SKU-001397,Progressive context-sensitive strategy,Mode,301.81,t
+1399,SKU-001398,Organic exuding solution,Jardin,208.48,t
+1400,SKU-001399,Multi-tiered demand-driven synergy,Informatique,241.80,t
+1401,SKU-001400,Inverse clear-thinking software,Jardin,296.21,t
+1402,SKU-001401,Up-sized discrete toolset,Livres,13.18,f
+1403,SKU-001402,Mandatory incremental artificial intelligence,Alimentation,296.99,t
+1404,SKU-001403,Customizable next generation migration,Beauté,21.52,t
+1405,SKU-001404,Team-oriented web-enabled collaboration,Électronique,84.84,t
+1406,SKU-001405,Advanced dynamic moratorium,Beauté,479.20,t
+1407,SKU-001406,Adaptive systemic interface,Alimentation,319.54,t
+1408,SKU-001407,Synergistic tertiary success,Sport,473.73,t
+1409,SKU-001408,Reduced full-range middleware,Alimentation,496.40,t
+1410,SKU-001409,Synchronized incremental challenge,Maison,111.24,t
+1411,SKU-001410,Switchable asymmetric open architecture,Maison,397.72,t
+1412,SKU-001411,Managed dedicated projection,Maison,312.36,t
+1413,SKU-001412,Synchronized asymmetric strategy,Maison,362.65,t
+1414,SKU-001413,Customer-focused bandwidth-monitored projection,Jouets,299.07,f
+1415,SKU-001414,Diverse motivating task-force,Livres,193.96,t
+1416,SKU-001415,Configurable maximized matrix,Jardin,262.31,t
+1417,SKU-001416,Robust 4thgeneration workforce,Livres,413.60,t
+1418,SKU-001417,Expanded scalable infrastructure,Maison,238.98,t
+1419,SKU-001418,Optimized human-resource infrastructure,Électronique,439.12,t
+1420,SKU-001419,Focused hybrid projection,Informatique,48.41,t
+1421,SKU-001420,Up-sized reciprocal framework,Alimentation,270.56,f
+1422,SKU-001421,Polarized context-sensitive middleware,Livres,261.98,t
+1423,SKU-001422,Compatible solution-oriented encryption,Électronique,349.43,t
+1424,SKU-001423,Diverse intangible Graphic Interface,Jouets,395.20,t
+1425,SKU-001424,Reduced multimedia focus group,Alimentation,402.70,t
+1426,SKU-001425,Mandatory 24/7 core,Alimentation,50.66,t
+1427,SKU-001426,Exclusive systemic matrix,Jouets,383.40,t
+1428,SKU-001427,Seamless actuating structure,Informatique,143.07,t
+1429,SKU-001428,Enhanced static protocol,Livres,130.39,f
+1430,SKU-001429,Right-sized even-keeled algorithm,Électronique,289.84,t
+1431,SKU-001430,Face-to-face mobile hierarchy,Électronique,188.76,t
+1432,SKU-001431,Extended grid-enabled productivity,Mode,205.60,t
+1433,SKU-001432,Team-oriented dedicated secured line,Livres,326.48,t
+1434,SKU-001433,User-friendly bi-directional protocol,Beauté,212.93,t
+1435,SKU-001434,Exclusive coherent strategy,Sport,495.92,t
+1436,SKU-001435,Function-based user-facing Graphical User Interface,Jardin,207.79,t
+1437,SKU-001436,De-engineered system-worthy knowledge user,Jouets,91.00,t
+1438,SKU-001437,Team-oriented full-range instruction set,Jouets,128.38,t
+1439,SKU-001438,Organized bandwidth-monitored paradigm,Mode,387.55,t
+1440,SKU-001439,Self-enabling global application,Maison,427.79,t
+1441,SKU-001440,Upgradable dynamic application,Jardin,224.40,t
+1442,SKU-001441,Multi-layered impactful middleware,Maison,51.94,t
+1443,SKU-001442,Persevering next generation approach,Mode,400.83,t
+1444,SKU-001443,Persevering asymmetric capacity,Électronique,82.05,t
+1445,SKU-001444,Total zero administration infrastructure,Électronique,402.58,t
+1446,SKU-001445,Managed coherent forecast,Jouets,463.08,t
+1447,SKU-001446,Secured explicit utilization,Informatique,133.02,t
+1448,SKU-001447,Quality-focused real-time archive,Alimentation,20.80,t
+1449,SKU-001448,Profit-focused heuristic complexity,Livres,307.75,t
+1450,SKU-001449,Up-sized radical middleware,Alimentation,30.62,t
+1451,SKU-001450,Front-line motivating middleware,Maison,320.87,t
+1452,SKU-001451,Down-sized 24hour structure,Jardin,425.58,t
+1453,SKU-001452,Compatible fresh-thinking capability,Beauté,144.43,f
+1454,SKU-001453,Grass-roots optimizing Local Area Network,Alimentation,256.25,t
+1455,SKU-001454,Organic modular installation,Alimentation,86.40,f
+1456,SKU-001455,Future-proofed object-oriented array,Jardin,328.20,t
+1457,SKU-001456,Fully-configurable impactful success,Informatique,498.41,t
+1458,SKU-001457,Configurable incremental help-desk,Mode,335.49,t
+1459,SKU-001458,Organic incremental hardware,Jardin,259.84,t
+1460,SKU-001459,Devolved multimedia concept,Informatique,459.75,t
+1461,SKU-001460,Devolved tertiary workforce,Beauté,457.67,t
+1462,SKU-001461,Versatile human-resource benchmark,Sport,114.70,t
+1463,SKU-001462,Re-contextualized solution-oriented Graphic Interface,Jouets,465.00,t
+1464,SKU-001463,Switchable encompassing strategy,Sport,89.17,t
+1465,SKU-001464,Re-contextualized static algorithm,Beauté,38.05,t
+1466,SKU-001465,De-engineered non-volatile function,Informatique,401.87,t
+1467,SKU-001466,Realigned empowering paradigm,Beauté,406.95,t
+1468,SKU-001467,Vision-oriented explicit core,Jouets,483.10,t
+1469,SKU-001468,Synchronized value-added extranet,Jardin,379.22,t
+1470,SKU-001469,User-centric foreground knowledgebase,Jouets,341.43,t
+1471,SKU-001470,Polarized incremental infrastructure,Électronique,242.02,t
+1472,SKU-001471,Compatible uniform encoding,Livres,317.56,t
+1473,SKU-001472,Quality-focused national Internet solution,Jardin,400.48,t
+1474,SKU-001473,Mandatory responsive Graphical User Interface,Mode,259.22,f
+1475,SKU-001474,Ameliorated zero-defect support,Sport,125.63,f
+1476,SKU-001475,Automated tertiary paradigm,Mode,39.86,t
+1477,SKU-001476,Cross-group tangible hub,Jouets,158.31,t
+1478,SKU-001477,Right-sized grid-enabled success,Alimentation,136.00,t
+1479,SKU-001478,Open-architected value-added intranet,Jardin,250.50,t
+1480,SKU-001479,Profound content-based circuit,Jardin,436.63,t
+1481,SKU-001480,Expanded non-volatile standardization,Jardin,417.80,t
+1482,SKU-001481,Streamlined user-facing toolset,Mode,79.69,t
+1483,SKU-001482,Virtual high-level system engine,Informatique,338.55,t
+1484,SKU-001483,Reverse-engineered web-enabled core,Alimentation,5.30,t
+1485,SKU-001484,Networked 24/7 budgetary management,Électronique,424.31,t
+1486,SKU-001485,Reduced zero-defect forecast,Mode,247.19,t
+1487,SKU-001486,Cross-group coherent productivity,Alimentation,434.65,t
+1488,SKU-001487,Persevering 4thgeneration instruction set,Beauté,141.57,t
+1489,SKU-001488,Networked bi-directional open architecture,Alimentation,65.87,t
+1490,SKU-001489,Vision-oriented fresh-thinking secured line,Livres,240.20,t
+1491,SKU-001490,Focused incremental alliance,Beauté,174.95,t
+1492,SKU-001491,Triple-buffered multi-tasking methodology,Maison,229.68,t
+1493,SKU-001492,Public-key 6thgeneration intranet,Beauté,231.12,t
+1494,SKU-001493,Devolved 24hour secured line,Électronique,337.70,t
+1495,SKU-001494,Devolved 4thgeneration definition,Informatique,164.07,t
+1496,SKU-001495,Sharable transitional data-warehouse,Sport,95.20,t
+1497,SKU-001496,Reactive neutral attitude,Sport,236.73,t
+1498,SKU-001497,Cloned cohesive access,Mode,93.59,t
+1499,SKU-001498,Virtual object-oriented process improvement,Livres,350.95,t
+1500,SKU-001499,Optimized hybrid matrices,Livres,141.26,t
+1501,SKU-001500,Optimized directional intranet,Maison,489.68,t
+1502,SKU-001501,Diverse 3rdgeneration customer loyalty,Informatique,360.97,t
+1503,SKU-001502,Stand-alone leadingedge definition,Beauté,217.24,t
+1504,SKU-001503,Implemented zero-defect extranet,Maison,400.42,t
+1505,SKU-001504,Profit-focused directional implementation,Jouets,403.22,t
+1506,SKU-001505,Multi-lateral intangible matrices,Jouets,68.97,t
+1507,SKU-001506,Adaptive logistical productivity,Beauté,267.92,t
+1508,SKU-001507,Cross-platform optimal product,Jouets,151.42,t
+1509,SKU-001508,Total 24hour hardware,Alimentation,25.76,f
+1510,SKU-001509,Open-architected stable Graphic Interface,Maison,31.90,t
+1511,SKU-001510,Pre-emptive executive core,Jouets,419.81,f
+1512,SKU-001511,Reverse-engineered incremental matrix,Mode,131.37,t
+1513,SKU-001512,Polarized 5thgeneration functionalities,Beauté,466.06,t
+1514,SKU-001513,Fundamental hybrid knowledge user,Électronique,207.06,t
+1515,SKU-001514,Exclusive radical encryption,Alimentation,101.08,t
+1516,SKU-001515,Compatible hybrid extranet,Beauté,88.92,t
+1517,SKU-001516,Up-sized radical ability,Mode,163.89,t
+1518,SKU-001517,Reverse-engineered value-added Graphical User Interface,Jouets,445.04,t
+1519,SKU-001518,Future-proofed interactive neural-net,Sport,232.95,t
+1520,SKU-001519,Streamlined national methodology,Maison,321.01,t
+1521,SKU-001520,User-friendly disintermediate structure,Livres,316.37,t
+1522,SKU-001521,Switchable actuating system engine,Informatique,41.40,t
+1523,SKU-001522,Multi-channeled multi-state middleware,Mode,159.81,t
+1524,SKU-001523,Optimized national capability,Sport,303.48,t
+1525,SKU-001524,Centralized cohesive groupware,Jouets,390.93,t
+1526,SKU-001525,Extended bandwidth-monitored challenge,Alimentation,261.43,t
+1527,SKU-001526,Reverse-engineered context-sensitive interface,Maison,93.58,f
+1528,SKU-001527,Operative clear-thinking functionalities,Jardin,331.69,t
+1529,SKU-001528,Future-proofed modular time-frame,Informatique,106.86,t
+1530,SKU-001529,Profound actuating software,Informatique,33.77,t
+1531,SKU-001530,Automated non-volatile Graphic Interface,Beauté,28.81,t
+1532,SKU-001531,Programmable actuating function,Beauté,382.97,f
+1533,SKU-001532,Advanced background time-frame,Sport,309.81,f
+1534,SKU-001533,Implemented human-resource capability,Livres,156.07,t
+1535,SKU-001534,Intuitive real-time toolset,Sport,222.69,t
+1536,SKU-001535,Persistent zero administration superstructure,Beauté,419.58,f
+1537,SKU-001536,Advanced 6thgeneration algorithm,Mode,430.46,t
+1538,SKU-001537,Compatible optimal secured line,Jouets,234.66,t
+1539,SKU-001538,Centralized 5thgeneration knowledge user,Sport,275.18,t
+1540,SKU-001539,Expanded multi-state middleware,Beauté,90.16,t
+1541,SKU-001540,Intuitive eco-centric infrastructure,Alimentation,218.62,t
+1542,SKU-001541,Organic well-modulated strategy,Beauté,156.21,t
+1543,SKU-001542,Focused responsive function,Beauté,115.11,f
+1544,SKU-001543,Upgradable modular forecast,Sport,184.16,t
+1545,SKU-001544,Fully-configurable impactful system engine,Sport,7.26,t
+1546,SKU-001545,Re-engineered discrete orchestration,Maison,173.25,t
+1547,SKU-001546,Sharable 5thgeneration neural-net,Électronique,344.51,t
+1548,SKU-001547,Robust even-keeled benchmark,Jouets,151.21,t
+1549,SKU-001548,Expanded bi-directional orchestration,Sport,299.31,t
+1550,SKU-001549,Progressive foreground orchestration,Beauté,188.07,t
+1551,SKU-001550,Multi-tiered modular architecture,Beauté,219.68,t
+1552,SKU-001551,Progressive directional circuit,Livres,414.56,t
+1553,SKU-001552,Customer-focused dedicated access,Informatique,212.28,t
+1554,SKU-001553,Monitored explicit capacity,Alimentation,404.17,t
+1555,SKU-001554,Switchable needs-based productivity,Sport,324.93,t
+1556,SKU-001555,Function-based solution-oriented utilization,Sport,207.63,t
+1557,SKU-001556,Triple-buffered context-sensitive help-desk,Maison,70.04,t
+1558,SKU-001557,Self-enabling asymmetric benchmark,Jouets,309.63,t
+1559,SKU-001558,Cross-group optimal projection,Alimentation,247.01,t
+1560,SKU-001559,Balanced dedicated system engine,Maison,26.72,t
+1561,SKU-001560,Multi-channeled radical framework,Maison,486.22,t
+1562,SKU-001561,User-friendly 24/7 orchestration,Maison,358.17,t
+1563,SKU-001562,Implemented composite protocol,Jardin,46.92,f
+1564,SKU-001563,Re-engineered executive architecture,Jardin,172.27,t
+1565,SKU-001564,Enterprise-wide foreground open system,Jouets,498.99,t
+1566,SKU-001565,Organized regional process improvement,Électronique,166.46,t
+1567,SKU-001566,User-centric optimizing alliance,Maison,29.91,t
+1568,SKU-001567,Upgradable systemic emulation,Informatique,272.51,t
+1569,SKU-001568,Virtual zero administration challenge,Sport,408.99,t
+1570,SKU-001569,Fully-configurable next generation moratorium,Informatique,487.35,t
+1571,SKU-001570,Triple-buffered local service-desk,Livres,386.07,t
+1572,SKU-001571,Operative maximized info-mediaries,Électronique,101.19,t
+1573,SKU-001572,Optional 5thgeneration product,Informatique,261.53,t
+1574,SKU-001573,Networked composite superstructure,Jouets,195.78,t
+1575,SKU-001574,Progressive object-oriented functionalities,Mode,80.99,t
+1576,SKU-001575,Compatible dedicated time-frame,Beauté,261.42,t
+1577,SKU-001576,Integrated 3rdgeneration project,Sport,100.96,t
+1578,SKU-001577,Extended non-volatile pricing structure,Jardin,486.69,t
+1579,SKU-001578,Phased neutral data-warehouse,Livres,163.61,t
+1580,SKU-001579,Public-key maximized forecast,Sport,293.18,t
+1581,SKU-001580,Implemented static standardization,Jardin,6.45,f
+1582,SKU-001581,Streamlined content-based adapter,Jouets,344.83,t
+1583,SKU-001582,Progressive bandwidth-monitored migration,Informatique,125.86,t
+1584,SKU-001583,Exclusive incremental encoding,Alimentation,170.53,t
+1585,SKU-001584,Diverse system-worthy system engine,Électronique,31.77,t
+1586,SKU-001585,Re-contextualized static database,Beauté,396.15,t
+1587,SKU-001586,Sharable regional software,Jardin,159.74,t
+1588,SKU-001587,Organized tertiary access,Mode,403.15,t
+1589,SKU-001588,Enterprise-wide human-resource system engine,Jardin,12.63,t
+1590,SKU-001589,Multi-tiered dynamic migration,Maison,126.85,f
+1591,SKU-001590,Down-sized 24hour leverage,Jouets,280.39,t
+1592,SKU-001591,Decentralized grid-enabled function,Jouets,96.51,t
+1593,SKU-001592,Realigned attitude-oriented neural-net,Mode,163.19,t
+1594,SKU-001593,Inverse bottom-line definition,Alimentation,457.41,t
+1595,SKU-001594,Face-to-face bi-directional archive,Informatique,266.51,t
+1596,SKU-001595,Phased multimedia instruction set,Sport,271.72,t
+1597,SKU-001596,Centralized global intranet,Beauté,190.76,t
+1598,SKU-001597,Organized impactful knowledge user,Électronique,310.63,t
+1599,SKU-001598,Proactive asynchronous parallelism,Alimentation,120.92,t
+1600,SKU-001599,Devolved tertiary toolset,Beauté,409.89,t
+1601,SKU-001600,Synchronized next generation neural-net,Jouets,383.34,t
+1602,SKU-001601,Robust client-driven task-force,Sport,162.65,t
+1603,SKU-001602,Automated discrete approach,Informatique,49.94,t
+1604,SKU-001603,Distributed multi-tasking intranet,Électronique,417.93,t
+1605,SKU-001604,Intuitive leadingedge flexibility,Électronique,102.64,t
+1606,SKU-001605,Automated heuristic middleware,Informatique,17.84,t
+1607,SKU-001606,Secured web-enabled contingency,Livres,329.64,t
+1608,SKU-001607,Front-line systematic access,Alimentation,129.46,t
+1609,SKU-001608,Expanded intangible access,Alimentation,359.49,f
+1610,SKU-001609,Multi-tiered leadingedge matrix,Jardin,328.56,t
+1611,SKU-001610,Progressive mission-critical budgetary management,Informatique,235.09,t
+1612,SKU-001611,Right-sized secondary concept,Mode,279.89,t
+1613,SKU-001612,Future-proofed well-modulated policy,Livres,411.37,t
+1614,SKU-001613,Phased stable conglomeration,Électronique,412.17,t
+1615,SKU-001614,Multi-tiered fresh-thinking Graphical User Interface,Électronique,367.68,t
+1616,SKU-001615,Versatile maximized architecture,Informatique,472.41,t
+1617,SKU-001616,Ergonomic impactful forecast,Informatique,52.41,t
+1618,SKU-001617,Re-engineered intangible matrices,Livres,96.35,t
+1619,SKU-001618,Fundamental tangible hierarchy,Jardin,285.87,t
+1620,SKU-001619,Cross-platform system-worthy synergy,Beauté,375.10,t
+1621,SKU-001620,Integrated foreground emulation,Informatique,383.61,t
+1622,SKU-001621,Organized heuristic task-force,Jouets,351.87,t
+1623,SKU-001622,Enhanced heuristic intranet,Informatique,85.07,t
+1624,SKU-001623,Up-sized exuding workforce,Livres,253.34,t
+1625,SKU-001624,Innovative systematic workforce,Beauté,499.22,t
+1626,SKU-001625,Programmable national circuit,Mode,451.44,t
+1627,SKU-001626,Inverse client-driven success,Mode,422.74,t
+1628,SKU-001627,Operative solution-oriented portal,Livres,413.43,t
+1629,SKU-001628,Re-engineered actuating strategy,Jardin,282.45,t
+1630,SKU-001629,Customizable multi-state hierarchy,Beauté,463.22,t
+1631,SKU-001630,Customer-focused well-modulated benchmark,Jouets,224.85,t
+1632,SKU-001631,Customizable foreground support,Électronique,491.51,t
+1633,SKU-001632,Optional methodical encryption,Beauté,69.27,t
+1634,SKU-001633,Focused needs-based hardware,Électronique,151.57,t
+1635,SKU-001634,Compatible foreground knowledgebase,Mode,12.81,t
+1636,SKU-001635,Optimized executive support,Sport,459.72,t
+1637,SKU-001636,Operative modular alliance,Alimentation,463.11,t
+1638,SKU-001637,Streamlined holistic approach,Électronique,231.26,t
+1639,SKU-001638,Switchable incremental system engine,Sport,184.81,t
+1640,SKU-001639,Public-key 24/7 portal,Jardin,129.61,t
+1641,SKU-001640,Quality-focused dedicated middleware,Alimentation,201.10,t
+1642,SKU-001641,User-centric demand-driven architecture,Informatique,362.34,t
+1643,SKU-001642,Reduced directional firmware,Maison,245.16,t
+1644,SKU-001643,Optional fresh-thinking standardization,Alimentation,410.12,f
+1645,SKU-001644,Centralized context-sensitive task-force,Sport,20.61,t
+1646,SKU-001645,Pre-emptive foreground migration,Livres,41.08,f
+1647,SKU-001646,Optimized actuating encryption,Mode,175.27,t
+1648,SKU-001647,Self-enabling exuding synergy,Livres,465.26,t
+1649,SKU-001648,User-friendly grid-enabled implementation,Jardin,374.34,t
+1650,SKU-001649,Exclusive system-worthy encoding,Électronique,317.68,t
+1651,SKU-001650,Expanded zero-defect moratorium,Électronique,153.78,f
+1652,SKU-001651,Re-engineered coherent encryption,Beauté,283.33,t
+1653,SKU-001652,Innovative regional hierarchy,Jardin,78.29,t
+1654,SKU-001653,Devolved even-keeled throughput,Livres,485.58,t
+1655,SKU-001654,Inverse local application,Alimentation,253.36,t
+1656,SKU-001655,Mandatory asynchronous functionalities,Sport,393.61,t
+1657,SKU-001656,Mandatory uniform leverage,Mode,43.11,t
+1658,SKU-001657,Progressive scalable challenge,Électronique,274.98,t
+1659,SKU-001658,Open-architected content-based monitoring,Livres,251.91,t
+1660,SKU-001659,Quality-focused 24hour productivity,Maison,381.49,t
+1661,SKU-001660,Exclusive composite flexibility,Jardin,244.95,t
+1662,SKU-001661,Synergistic user-facing circuit,Jardin,281.46,t
+1663,SKU-001662,Persistent background implementation,Beauté,124.63,f
+1664,SKU-001663,Customizable static moderator,Livres,163.06,t
+1665,SKU-001664,User-friendly static info-mediaries,Informatique,58.04,t
+1666,SKU-001665,Visionary cohesive structure,Mode,175.46,t
+1667,SKU-001666,Team-oriented multimedia product,Alimentation,328.39,t
+1668,SKU-001667,Multi-tiered optimal Local Area Network,Maison,493.85,t
+1669,SKU-001668,User-centric eco-centric matrices,Jouets,312.34,t
+1670,SKU-001669,Operative uniform workforce,Jardin,101.44,t
+1671,SKU-001670,Enterprise-wide didactic product,Informatique,57.96,f
+1672,SKU-001671,Phased 4thgeneration database,Alimentation,463.51,t
+1673,SKU-001672,Synergized next generation hardware,Sport,8.84,t
+1674,SKU-001673,Streamlined even-keeled leverage,Informatique,153.95,t
+1675,SKU-001674,Realigned web-enabled intranet,Mode,106.09,t
+1676,SKU-001675,Versatile system-worthy contingency,Jardin,274.12,t
+1677,SKU-001676,Open-source multi-tasking attitude,Beauté,242.55,t
+1678,SKU-001677,Re-engineered content-based capability,Maison,348.15,t
+1679,SKU-001678,Seamless coherent conglomeration,Livres,292.34,t
+1680,SKU-001679,Up-sized object-oriented focus group,Électronique,129.22,f
+1681,SKU-001680,Cross-group zero administration utilization,Jardin,395.02,t
+1682,SKU-001681,Universal context-sensitive standardization,Électronique,233.55,t
+1683,SKU-001682,Face-to-face client-driven migration,Informatique,195.55,t
+1684,SKU-001683,Versatile tangible ability,Mode,432.41,f
+1685,SKU-001684,Virtual hybrid contingency,Livres,117.12,t
+1686,SKU-001685,Monitored disintermediate software,Informatique,452.13,t
+1687,SKU-001686,Reduced eco-centric superstructure,Alimentation,266.72,t
+1688,SKU-001687,Cross-platform motivating hierarchy,Beauté,483.46,t
+1689,SKU-001688,Grass-roots global hub,Électronique,21.80,t
+1690,SKU-001689,Grass-roots asymmetric moratorium,Sport,168.12,t
+1691,SKU-001690,Seamless composite functionalities,Maison,11.15,t
+1692,SKU-001691,Public-key multi-tasking encoding,Mode,313.37,t
+1693,SKU-001692,Configurable empowering throughput,Beauté,139.39,f
+1694,SKU-001693,Adaptive actuating emulation,Sport,439.58,t
+1695,SKU-001694,Monitored impactful definition,Électronique,472.18,t
+1696,SKU-001695,Assimilated dedicated complexity,Jardin,77.55,t
+1697,SKU-001696,Profit-focused coherent Internet solution,Maison,45.72,t
+1698,SKU-001697,Phased content-based Graphic Interface,Alimentation,436.61,t
+1699,SKU-001698,Synchronized exuding pricing structure,Livres,121.70,t
+1700,SKU-001699,Advanced fault-tolerant knowledge user,Sport,455.05,t
+1701,SKU-001700,Reduced web-enabled moratorium,Beauté,67.62,t
+1702,SKU-001701,Multi-tiered high-level intranet,Alimentation,271.59,t
+1703,SKU-001702,Cross-platform interactive utilization,Maison,155.88,t
+1704,SKU-001703,Profit-focused optimal structure,Beauté,454.96,t
+1705,SKU-001704,Optional solution-oriented challenge,Maison,328.80,t
+1706,SKU-001705,Cross-group content-based circuit,Maison,160.11,t
+1707,SKU-001706,Vision-oriented user-facing utilization,Informatique,93.70,t
+1708,SKU-001707,Multi-lateral analyzing moderator,Maison,364.09,t
+1709,SKU-001708,Operative context-sensitive moratorium,Livres,480.68,t
+1710,SKU-001709,Open-source national functionalities,Sport,77.67,t
+1711,SKU-001710,Networked explicit product,Maison,94.00,t
+1712,SKU-001711,Expanded exuding intranet,Alimentation,309.24,t
+1713,SKU-001712,Networked actuating software,Alimentation,116.99,t
+1714,SKU-001713,Synergized multi-tasking monitoring,Électronique,180.91,t
+1715,SKU-001714,Enhanced demand-driven adapter,Jouets,68.78,t
+1716,SKU-001715,Re-engineered composite hierarchy,Jouets,356.59,t
+1717,SKU-001716,Quality-focused leadingedge conglomeration,Livres,246.74,t
+1718,SKU-001717,Programmable radical utilization,Jardin,114.68,t
+1719,SKU-001718,Streamlined scalable frame,Électronique,462.87,t
+1720,SKU-001719,Object-based maximized secured line,Jardin,371.70,t
+1721,SKU-001720,Extended hybrid database,Jardin,34.94,t
+1722,SKU-001721,Compatible hybrid customer loyalty,Jouets,433.83,t
+1723,SKU-001722,Fully-configurable 3rdgeneration neural-net,Mode,433.65,t
+1724,SKU-001723,Implemented human-resource analyzer,Livres,203.62,f
+1725,SKU-001724,Customer-focused methodical complexity,Livres,360.66,t
+1726,SKU-001725,User-friendly hybrid collaboration,Alimentation,297.72,t
+1727,SKU-001726,Profound zero administration access,Électronique,261.28,t
+1728,SKU-001727,Front-line demand-driven standardization,Électronique,439.13,t
+1729,SKU-001728,Open-architected fault-tolerant portal,Beauté,199.01,t
+1730,SKU-001729,Business-focused multimedia workforce,Beauté,194.92,t
+1731,SKU-001730,Horizontal zero tolerance secured line,Électronique,96.55,t
+1732,SKU-001731,Proactive executive orchestration,Sport,387.29,t
+1733,SKU-001732,Configurable responsive array,Maison,212.39,t
+1734,SKU-001733,Optional disintermediate extranet,Électronique,345.60,t
+1735,SKU-001734,Streamlined tertiary definition,Jouets,415.29,t
+1736,SKU-001735,Synergized 5thgeneration emulation,Beauté,58.36,t
+1737,SKU-001736,Cross-platform analyzing structure,Beauté,69.38,t
+1738,SKU-001737,Team-oriented bandwidth-monitored info-mediaries,Jouets,14.41,t
+1739,SKU-001738,Open-source disintermediate throughput,Jardin,441.51,f
+1740,SKU-001739,Multi-tiered intermediate conglomeration,Mode,346.48,t
+1741,SKU-001740,Versatile client-server moderator,Maison,359.75,t
+1742,SKU-001741,Grass-roots high-level functionalities,Informatique,353.70,t
+1743,SKU-001742,Integrated asynchronous frame,Informatique,262.86,t
+1744,SKU-001743,Versatile 24hour monitoring,Beauté,306.81,t
+1745,SKU-001744,Sharable full-range knowledgebase,Beauté,191.54,t
+1746,SKU-001745,Seamless homogeneous collaboration,Mode,283.61,t
+1747,SKU-001746,Diverse object-oriented help-desk,Maison,82.74,t
+1748,SKU-001747,Compatible well-modulated benchmark,Électronique,210.95,t
+1749,SKU-001748,Sharable 24hour migration,Jouets,145.81,t
+1750,SKU-001749,Integrated multi-tasking interface,Maison,480.30,f
+1751,SKU-001750,Configurable 5thgeneration implementation,Sport,8.08,t
+1752,SKU-001751,Upgradable zero-defect instruction set,Jouets,272.66,f
+1753,SKU-001752,User-friendly 6thgeneration support,Jouets,120.46,t
+1754,SKU-001753,Switchable analyzing contingency,Jouets,227.96,t
+1755,SKU-001754,Networked 24hour frame,Alimentation,300.85,t
+1756,SKU-001755,Operative optimizing adapter,Beauté,140.50,t
+1757,SKU-001756,Sharable bi-directional intranet,Jardin,26.36,t
+1758,SKU-001757,Fundamental reciprocal protocol,Mode,20.29,t
+1759,SKU-001758,Managed dedicated migration,Alimentation,419.33,t
+1760,SKU-001759,Sharable regional benchmark,Informatique,26.42,t
+1761,SKU-001760,Up-sized homogeneous challenge,Maison,82.34,t
+1762,SKU-001761,Integrated even-keeled archive,Alimentation,287.00,t
+1763,SKU-001762,Assimilated intangible info-mediaries,Jouets,375.17,t
+1764,SKU-001763,Self-enabling mobile moratorium,Électronique,48.38,t
+1765,SKU-001764,Quality-focused executive functionalities,Mode,448.97,t
+1766,SKU-001765,Phased directional circuit,Livres,421.97,f
+1767,SKU-001766,Compatible intermediate hardware,Jouets,69.00,t
+1768,SKU-001767,Centralized context-sensitive software,Sport,165.95,t
+1769,SKU-001768,Grass-roots coherent data-warehouse,Jardin,348.52,t
+1770,SKU-001769,Vision-oriented multi-tasking orchestration,Informatique,286.54,t
+1771,SKU-001770,Ergonomic grid-enabled flexibility,Beauté,493.62,t
+1772,SKU-001771,User-friendly eco-centric access,Alimentation,467.08,t
+1773,SKU-001772,Persevering asynchronous website,Sport,214.67,t
+1774,SKU-001773,Cloned secondary access,Sport,263.64,t
+1775,SKU-001774,Synergized maximized system engine,Mode,463.70,t
+1776,SKU-001775,Down-sized reciprocal model,Jouets,260.81,t
+1777,SKU-001776,Multi-layered 4thgeneration concept,Jouets,404.37,t
+1778,SKU-001777,Fully-configurable stable protocol,Jardin,354.88,t
+1779,SKU-001778,Assimilated grid-enabled productivity,Électronique,60.87,t
+1780,SKU-001779,User-friendly 4thgeneration interface,Informatique,369.26,t
+1781,SKU-001780,Optional leadingedge attitude,Alimentation,499.50,t
+1782,SKU-001781,Function-based needs-based Graphical User Interface,Mode,176.13,t
+1783,SKU-001782,Focused directional protocol,Jardin,7.63,t
+1784,SKU-001783,Exclusive zero-defect capability,Sport,128.70,f
+1785,SKU-001784,Proactive well-modulated artificial intelligence,Sport,254.33,t
+1786,SKU-001785,Function-based logistical orchestration,Électronique,58.69,t
+1787,SKU-001786,Virtual foreground help-desk,Livres,362.75,t
+1788,SKU-001787,Function-based user-facing workforce,Électronique,416.36,t
+1789,SKU-001788,Cloned composite open system,Mode,461.30,t
+1790,SKU-001789,Reactive system-worthy concept,Jouets,399.03,t
+1791,SKU-001790,Implemented web-enabled task-force,Jouets,79.38,t
+1792,SKU-001791,Reduced context-sensitive complexity,Beauté,448.17,t
+1793,SKU-001792,Adaptive zero tolerance contingency,Livres,464.04,f
+1794,SKU-001793,Profit-focused static neural-net,Beauté,151.07,t
+1795,SKU-001794,Compatible heuristic toolset,Mode,278.48,f
+1796,SKU-001795,Streamlined contextually-based application,Alimentation,343.38,t
+1797,SKU-001796,Profound optimizing software,Mode,34.97,t
+1798,SKU-001797,Multi-channeled client-driven budgetary management,Électronique,170.90,t
+1799,SKU-001798,Organic hybrid neural-net,Beauté,421.52,t
+1800,SKU-001799,Adaptive bottom-line complexity,Livres,95.31,t
+1801,SKU-001800,Operative real-time Internet solution,Sport,353.22,t
+1802,SKU-001801,Down-sized full-range analyzer,Électronique,137.21,f
+1803,SKU-001802,Inverse well-modulated approach,Jardin,187.05,t
+1804,SKU-001803,Polarized user-facing emulation,Sport,109.64,t
+1805,SKU-001804,Universal client-driven focus group,Informatique,188.36,f
+1806,SKU-001805,User-friendly radical architecture,Jardin,456.85,t
+1807,SKU-001806,Focused radical frame,Électronique,399.91,t
+1808,SKU-001807,Front-line actuating encryption,Maison,96.73,t
+1809,SKU-001808,Team-oriented web-enabled concept,Beauté,156.56,t
+1810,SKU-001809,Multi-lateral 6thgeneration support,Informatique,411.42,t
+1811,SKU-001810,Versatile composite matrix,Maison,104.18,f
+1812,SKU-001811,Function-based radical infrastructure,Livres,357.41,t
+1813,SKU-001812,Distributed zero tolerance encoding,Électronique,156.87,f
+1814,SKU-001813,Realigned discrete middleware,Alimentation,436.19,t
+1815,SKU-001814,Horizontal explicit application,Électronique,53.35,t
+1816,SKU-001815,Virtual systematic emulation,Sport,13.20,t
+1817,SKU-001816,Polarized secondary infrastructure,Jardin,161.80,t
+1818,SKU-001817,Multi-channeled eco-centric database,Sport,267.07,t
+1819,SKU-001818,Right-sized optimal parallelism,Informatique,137.78,t
+1820,SKU-001819,Future-proofed coherent superstructure,Informatique,9.60,t
+1821,SKU-001820,Realigned web-enabled help-desk,Beauté,52.98,t
+1822,SKU-001821,User-centric multi-tasking adapter,Beauté,160.61,t
+1823,SKU-001822,Ergonomic directional algorithm,Sport,287.89,t
+1824,SKU-001823,Programmable incremental productivity,Sport,307.40,t
+1825,SKU-001824,Function-based bandwidth-monitored forecast,Jouets,27.26,f
+1826,SKU-001825,Realigned incremental projection,Électronique,54.75,f
+1827,SKU-001826,Fully-configurable clear-thinking parallelism,Livres,197.17,t
+1828,SKU-001827,Streamlined 6thgeneration migration,Alimentation,315.48,t
+1829,SKU-001828,Intuitive 3rdgeneration groupware,Jouets,308.93,t
+1830,SKU-001829,Centralized web-enabled flexibility,Jardin,357.02,t
+1831,SKU-001830,Synchronized multimedia methodology,Beauté,41.12,t
+1832,SKU-001831,Switchable bi-directional groupware,Jouets,284.76,f
+1833,SKU-001832,Reduced 4thgeneration functionalities,Jouets,50.44,t
+1834,SKU-001833,Decentralized next generation capacity,Jouets,236.33,t
+1835,SKU-001834,Extended maximized matrix,Maison,430.83,t
+1836,SKU-001835,Down-sized bi-directional approach,Mode,197.25,t
+1837,SKU-001836,Seamless actuating matrices,Mode,394.81,t
+1838,SKU-001837,Function-based executive extranet,Jouets,244.78,f
+1839,SKU-001838,Phased object-oriented solution,Informatique,177.02,t
+1840,SKU-001839,Focused non-volatile benchmark,Maison,142.56,t
+1841,SKU-001840,Team-oriented asynchronous leverage,Alimentation,65.44,t
+1842,SKU-001841,Decentralized mobile extranet,Informatique,164.28,t
+1843,SKU-001842,Universal 24/7 algorithm,Sport,267.31,t
+1844,SKU-001843,Exclusive tertiary extranet,Livres,120.81,t
+1845,SKU-001844,Multi-channeled hybrid moderator,Maison,487.00,t
+1846,SKU-001845,Synergistic motivating solution,Mode,105.70,t
+1847,SKU-001846,Grass-roots multi-tasking infrastructure,Livres,392.59,t
+1848,SKU-001847,Managed systematic matrix,Mode,273.17,t
+1849,SKU-001848,Versatile demand-driven matrices,Informatique,370.20,t
+1850,SKU-001849,Implemented zero-defect focus group,Jouets,58.93,t
+1851,SKU-001850,Right-sized homogeneous initiative,Mode,278.43,t
+1852,SKU-001851,Multi-tiered 24hour intranet,Maison,155.40,t
+1853,SKU-001852,Devolved directional infrastructure,Alimentation,56.15,t
+1854,SKU-001853,Multi-tiered upward-trending approach,Livres,165.05,t
+1855,SKU-001854,Visionary explicit utilization,Électronique,47.09,t
+1856,SKU-001855,Phased empowering benchmark,Alimentation,451.82,t
+1857,SKU-001856,Digitized 24hour open architecture,Électronique,379.02,t
+1858,SKU-001857,Customer-focused needs-based ability,Jouets,266.57,t
+1859,SKU-001858,Ergonomic intermediate model,Alimentation,224.69,t
+1860,SKU-001859,Right-sized demand-driven middleware,Mode,151.27,t
+1861,SKU-001860,Sharable coherent help-desk,Sport,459.41,t
+1862,SKU-001861,De-engineered national service-desk,Mode,495.16,t
+1863,SKU-001862,Reduced responsive forecast,Alimentation,493.24,t
+1864,SKU-001863,Adaptive fault-tolerant data-warehouse,Maison,426.55,f
+1865,SKU-001864,Reduced dynamic time-frame,Beauté,484.01,f
+1866,SKU-001865,Multi-lateral bifurcated initiative,Beauté,410.74,t
+1867,SKU-001866,Ameliorated client-driven infrastructure,Sport,433.11,t
+1868,SKU-001867,Robust zero-defect strategy,Alimentation,198.35,t
+1869,SKU-001868,Managed mission-critical intranet,Livres,204.20,t
+1870,SKU-001869,Multi-layered clear-thinking solution,Jardin,331.92,t
+1871,SKU-001870,Optional intangible open architecture,Jardin,278.60,t
+1872,SKU-001871,Implemented next generation application,Mode,420.30,t
+1873,SKU-001872,Extended static support,Maison,68.87,f
+1874,SKU-001873,Cross-platform interactive customer loyalty,Électronique,73.71,t
+1875,SKU-001874,Open-architected methodical model,Livres,487.54,t
+1876,SKU-001875,Cloned logistical functionalities,Maison,321.84,t
+1877,SKU-001876,Distributed empowering project,Jouets,447.00,t
+1878,SKU-001877,Reactive asymmetric encryption,Livres,312.38,t
+1879,SKU-001878,Mandatory dynamic matrix,Livres,276.92,t
+1880,SKU-001879,Networked encompassing complexity,Mode,114.42,t
+1881,SKU-001880,Seamless multimedia emulation,Électronique,289.81,t
+1882,SKU-001881,Versatile reciprocal definition,Jardin,356.64,t
+1883,SKU-001882,Advanced demand-driven process improvement,Beauté,289.02,f
+1884,SKU-001883,Virtual heuristic encoding,Électronique,284.94,t
+1885,SKU-001884,Right-sized high-level challenge,Informatique,290.97,t
+1886,SKU-001885,User-centric tangible infrastructure,Informatique,72.76,t
+1887,SKU-001886,Balanced multi-state projection,Sport,233.54,f
+1888,SKU-001887,Public-key grid-enabled core,Alimentation,46.05,t
+1889,SKU-001888,Enterprise-wide radical workforce,Informatique,342.67,t
+1890,SKU-001889,Realigned maximized encoding,Alimentation,157.62,f
+1891,SKU-001890,Implemented tertiary algorithm,Mode,268.45,f
+1892,SKU-001891,Cross-group attitude-oriented extranet,Jouets,257.31,t
+1893,SKU-001892,Secured real-time matrix,Mode,211.67,t
+1894,SKU-001893,Up-sized exuding knowledgebase,Sport,146.03,f
+1895,SKU-001894,Managed encompassing superstructure,Alimentation,375.21,t
+1896,SKU-001895,Pre-emptive dedicated service-desk,Alimentation,131.70,t
+1897,SKU-001896,Streamlined local Local Area Network,Alimentation,86.20,f
+1898,SKU-001897,Automated even-keeled task-force,Sport,404.83,t
+1899,SKU-001898,Reverse-engineered reciprocal analyzer,Sport,243.41,t
+1900,SKU-001899,Re-engineered intangible knowledgebase,Informatique,426.02,t
+1901,SKU-001900,Public-key asymmetric portal,Maison,308.67,t
+1902,SKU-001901,Integrated high-level utilization,Sport,9.07,t
+1903,SKU-001902,Networked global orchestration,Maison,455.25,t
+1904,SKU-001903,Polarized local emulation,Jouets,186.14,t
+1905,SKU-001904,Seamless human-resource attitude,Jardin,243.49,t
+1906,SKU-001905,Vision-oriented 5thgeneration protocol,Électronique,172.74,f
+1907,SKU-001906,Exclusive zero administration software,Maison,298.58,t
+1908,SKU-001907,Function-based 3rdgeneration Graphical User Interface,Jouets,376.88,t
+1909,SKU-001908,Phased demand-driven initiative,Livres,120.50,t
+1910,SKU-001909,Quality-focused upward-trending paradigm,Maison,107.01,t
+1911,SKU-001910,Cross-platform actuating model,Mode,29.05,t
+1912,SKU-001911,User-friendly 3rdgeneration frame,Informatique,28.16,t
+1913,SKU-001912,Customizable tertiary service-desk,Jouets,152.08,t
+1914,SKU-001913,Proactive foreground interface,Beauté,118.36,t
+1915,SKU-001914,Secured scalable focus group,Livres,238.35,t
+1916,SKU-001915,Extended 5thgeneration leverage,Livres,7.91,t
+1917,SKU-001916,Universal cohesive workforce,Jouets,192.24,t
+1918,SKU-001917,Customer-focused systemic middleware,Beauté,342.07,f
+1919,SKU-001918,Switchable motivating knowledgebase,Beauté,319.44,t
+1920,SKU-001919,Switchable logistical website,Livres,306.02,t
+1921,SKU-001920,Cloned systematic success,Sport,168.81,t
+1922,SKU-001921,Optimized object-oriented parallelism,Informatique,129.16,t
+1923,SKU-001922,Cross-platform human-resource functionalities,Jouets,387.03,t
+1924,SKU-001923,Profit-focused maximized contingency,Alimentation,385.71,t
+1925,SKU-001924,Focused incremental encryption,Maison,158.01,f
+1926,SKU-001925,Integrated well-modulated architecture,Électronique,416.18,f
+1927,SKU-001926,Decentralized 5thgeneration firmware,Informatique,263.58,t
+1928,SKU-001927,Public-key full-range intranet,Mode,111.27,t
+1929,SKU-001928,Realigned transitional instruction set,Jardin,18.95,t
+1930,SKU-001929,Organized bifurcated circuit,Électronique,469.38,t
+1931,SKU-001930,Networked fresh-thinking workforce,Jardin,475.34,t
+1932,SKU-001931,Polarized system-worthy complexity,Informatique,45.02,t
+1933,SKU-001932,Reactive asymmetric neural-net,Livres,328.88,t
+1934,SKU-001933,Digitized zero administration parallelism,Alimentation,401.99,t
+1935,SKU-001934,Decentralized composite matrix,Informatique,348.44,t
+1936,SKU-001935,Virtual next generation process improvement,Jouets,330.92,f
+1937,SKU-001936,Stand-alone national migration,Jouets,461.50,t
+1938,SKU-001937,Multi-lateral solution-oriented concept,Livres,346.73,t
+1939,SKU-001938,Fundamental object-oriented service-desk,Mode,130.15,t
+1940,SKU-001939,Reduced asymmetric process improvement,Sport,389.00,t
+1941,SKU-001940,Open-architected 4thgeneration productivity,Mode,497.99,t
+1942,SKU-001941,Progressive explicit attitude,Sport,90.61,f
+1943,SKU-001942,Up-sized tangible hardware,Jardin,305.93,t
+1944,SKU-001943,Synergistic next generation time-frame,Jouets,56.00,t
+1945,SKU-001944,Managed holistic core,Livres,110.76,t
+1946,SKU-001945,Persistent transitional emulation,Jouets,358.27,t
+1947,SKU-001946,Centralized tertiary utilization,Informatique,37.07,t
+1948,SKU-001947,Grass-roots didactic knowledgebase,Jouets,11.34,t
+1949,SKU-001948,Operative demand-driven capability,Électronique,466.58,t
+1950,SKU-001949,Progressive fresh-thinking hub,Sport,77.50,t
+1951,SKU-001950,Re-contextualized impactful methodology,Livres,288.17,t
+1952,SKU-001951,Ameliorated modular capability,Jouets,240.11,t
+1953,SKU-001952,Optional web-enabled process improvement,Informatique,270.98,f
+1954,SKU-001953,Function-based eco-centric neural-net,Jouets,62.36,t
+1955,SKU-001954,Triple-buffered bandwidth-monitored flexibility,Mode,168.05,t
+1956,SKU-001955,User-friendly fault-tolerant ability,Électronique,316.87,t
+1957,SKU-001956,Adaptive analyzing synergy,Informatique,183.95,t
+1958,SKU-001957,Upgradable encompassing alliance,Mode,42.07,t
+1959,SKU-001958,Organic holistic installation,Sport,324.60,t
+1960,SKU-001959,Balanced coherent encoding,Électronique,483.82,t
+1961,SKU-001960,Vision-oriented bottom-line application,Sport,348.55,t
+1962,SKU-001961,Upgradable interactive function,Mode,244.28,t
+1963,SKU-001962,Vision-oriented 6thgeneration intranet,Jouets,368.19,t
+1964,SKU-001963,Visionary real-time matrix,Jardin,14.63,t
+1965,SKU-001964,Diverse optimal installation,Jardin,245.64,f
+1966,SKU-001965,Progressive user-facing complexity,Beauté,322.42,t
+1967,SKU-001966,Enhanced upward-trending open architecture,Jouets,483.35,f
+1968,SKU-001967,Profit-focused stable groupware,Mode,29.92,t
+1969,SKU-001968,User-friendly fault-tolerant collaboration,Électronique,203.94,t
+1970,SKU-001969,Persevering demand-driven synergy,Beauté,230.27,t
+1971,SKU-001970,Future-proofed empowering parallelism,Beauté,76.18,t
+1972,SKU-001971,Universal mobile orchestration,Informatique,20.37,t
+1973,SKU-001972,User-centric radical collaboration,Électronique,236.67,t
+1974,SKU-001973,Multi-layered bifurcated website,Électronique,122.86,t
+1975,SKU-001974,Stand-alone radical matrices,Électronique,87.78,f
+1976,SKU-001975,Team-oriented content-based workforce,Sport,410.73,f
+1977,SKU-001976,Open-source incremental product,Alimentation,87.00,t
+1978,SKU-001977,Inverse even-keeled knowledge user,Informatique,58.86,t
+1979,SKU-001978,Upgradable high-level migration,Alimentation,111.85,t
+1980,SKU-001979,Persistent next generation standardization,Livres,170.00,t
+1981,SKU-001980,Synchronized upward-trending encryption,Livres,163.47,t
+1982,SKU-001981,Synchronized mission-critical architecture,Alimentation,273.85,t
+1983,SKU-001982,Centralized tangible Graphic Interface,Jardin,382.59,t
+1984,SKU-001983,Ergonomic optimizing synergy,Mode,33.48,t
+1985,SKU-001984,Total client-server help-desk,Livres,85.69,t
+1986,SKU-001985,Stand-alone transitional parallelism,Maison,220.45,t
+1987,SKU-001986,Centralized intermediate solution,Électronique,68.42,t
+1988,SKU-001987,Proactive logistical capability,Alimentation,189.31,t
+1989,SKU-001988,Realigned fresh-thinking core,Jouets,42.20,f
+1990,SKU-001989,Universal impactful ability,Informatique,353.96,t
+1991,SKU-001990,Visionary scalable benchmark,Sport,209.28,t
+1992,SKU-001991,Phased explicit definition,Jouets,346.79,t
+1993,SKU-001992,Total 3rdgeneration extranet,Sport,262.50,t
+1994,SKU-001993,Centralized cohesive hardware,Maison,306.05,f
+1995,SKU-001994,Multi-tiered analyzing analyzer,Maison,359.16,t
+1996,SKU-001995,Implemented bottom-line customer loyalty,Informatique,314.34,t
+1997,SKU-001996,Cross-platform incremental software,Mode,210.56,t
+1998,SKU-001997,Object-based modular Local Area Network,Jardin,60.52,t
+1999,SKU-001998,Multi-channeled client-server matrices,Informatique,310.22,t
+2000,SKU-001999,Vision-oriented 24hour intranet,Beauté,254.76,t

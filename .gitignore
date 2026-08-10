@@ -1,0 +1,6 @@
+# Power BI — fichiers temporaires (on versionne le .pbix final, pas les temporaires)
+*.pbix.tmp
+~$*.pbix
+.pbi/
+
+# On garde le .pbix final et les CSV (données d'exemple reproductibles)
