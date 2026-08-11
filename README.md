@@ -26,7 +26,8 @@ projet-09-dashboard-powerbi/
 └── docs/
     ├── modele.md             ← schéma en étoile + relations à créer
     ├── kpi-maquette.md       ← KPIs exécutifs + maquette des 2 pages
-    └── rls.md                ← sécurité au niveau des lignes
+    ├── rls.md                ← sécurité au niveau des lignes
+    └── data-dictionary.md    ← dictionnaire de données (généré depuis le .pbix)
 ```
 
 ## 🛠️ Construire le dashboard (Power BI Desktop)
