@@ -8,12 +8,15 @@
 -- ---------------------------------------------------------------------
 -- dim_customer : une ligne par client. On dénormalise le nom complet.
 -- ---------------------------------------------------------------------
+-- Prérequis : exécuter country_names.sql (référentiel ISO -> nom FR).
 CREATE OR REPLACE VIEW dim_customer AS
 SELECT c.id                                   AS customer_key,
        c.email,
        c.first_name || ' ' || c.last_name     AS full_name,
-       c.country
-FROM customer c;
+       c.country,
+       COALESCE(n.name_fr, c.country)          AS country_name  -- nom complet lisible
+FROM customer c
+LEFT JOIN public.country_names n ON n.code = c.country;
 
 -- ---------------------------------------------------------------------
 -- dim_product : une ligne par produit, catégorie dénormalisée (étoile, pas flocon).
