@@ -9,6 +9,14 @@
 > maquette, RLS) + les données prêtes à importer. Le fichier `.pbix` s'assemble
 > dans Power BI Desktop en suivant le guide ci-dessous.
 
+## 📸 Aperçu
+
+**Page 1 — Vue d'ensemble**
+![Dashboard ventes — vue d'ensemble](outputs/page1-vue-ensemble.png)
+
+**Page 2 — Détail produit**
+![Dashboard ventes — détail produit](outputs/page2-detail.png)
+
 ## 📦 Contenu du repo
 
 ```
