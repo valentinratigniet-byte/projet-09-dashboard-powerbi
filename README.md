@@ -17,6 +17,19 @@
 **Page 2 — Détail produit**
 ![Dashboard ventes — détail produit](outputs/page2-detail.png)
 
+## 🧱 Modèle en étoile
+
+```mermaid
+flowchart TD
+    DIMC["dim_customer"] --- FACT((("fct_sales")))
+    DIMP["dim_product"] --- FACT
+    DIMD["dim_date<br/>table de dates"] --- FACT
+    FACT --> BI["Power BI<br/>17 mesures DAX, RLS"]
+
+    style FACT fill:#137A8B,color:#fff
+    style BI fill:#E4A93C,color:#1a1a1a
+```
+
 ## 📦 Contenu du repo
 
 ```
