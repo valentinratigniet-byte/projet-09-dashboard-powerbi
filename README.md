@@ -91,6 +91,6 @@ done
 
 ---
 
-*Projet 09 du [Portfolio Data](../). Consomme le modèle en étoile issu du Projet 07.
+*Projet 09 du [Portfolio Data](https://github.com/valentinratigniet-byte). Consomme le modèle en étoile issu du Projet 07.
 Prochaine brique : Projet 10 — pipeline ELT qui automatise cette chaîne
 PostgreSQL → Power BI.*
