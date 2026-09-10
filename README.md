@@ -30,6 +30,39 @@ flowchart TD
     style BI fill:#E4A93C,color:#1a1a1a
 ```
 
+## 🔬 Qualité des données (mesurée)
+
+Données synthétiques (Faker, seed du [Projet 07](https://github.com/valentinratigniet-byte/projet-07-base-ecommerce))
+exposées via les vues étoile de `sql/star_schema.sql` — 18 contrôles rejoués
+directement sur les 4 CSV exportés (5 000 clients, 2 000 produits, 731 jours,
+120 089 lignes de vente) :
+
+| Contrôle | Résultat mesuré |
+|---|---:|
+| Doublons de clé (`customer_key`, `product_key`, `sku`, `email`) | 0 partout |
+| `fct_sales` — orphelins vers `dim_customer` / `dim_product` / `dim_date` | 0 / 0 / 0 |
+| `fct_sales` — doublons de ligne (toutes colonnes identiques) | 0 |
+| `price` / `quantity` / `unit_price` ≤ 0 | 0 |
+| `line_amount` ≠ `quantity × unit_price` (écart > 0,01) | 0 |
+| `unit_price` de la vente ≠ `price` catalogue du produit | 0 |
+| `country` hors référentiel ISO (`country_names`) | 0 sur 5 000 |
+
+**Résultat : aucune anomalie.** Normal et honnête à dire tel quel — contrairement
+au [Projet 01](https://github.com/valentinratigniet-byte/projet-01-analyse-ventes-ecommerce)
+(données réelles Kaggle, imparfaites par nature), ce jeu est généré puis exposé
+via des vues SQL qui imposent déjà l'intégrité référentielle : un audit qui ne
+trouve rien confirme que la génération + les vues font leur travail, il n'y a
+pas d'incident à inventer pour remplir un tableau.
+
+**Un choix de conception à connaître (pas un bug)** : `dim_product`
+(`sql/star_schema.sql`) relie `product` à `category` avec un `JOIN` **strict**
+(pas de `LEFT JOIN`) — un produit sans catégorie valide disparaîtrait
+silencieusement de la dimension, et donc de tout le modèle en étoile, au lieu
+de tomber sur un `'unknown'` comme le fait le Projet 01. Vérifié sur la base
+actuelle : les 2 000 produits ont tous une `category_id` valide (0 orphelin),
+donc aucun impact aujourd'hui — mais c'est un piège silencieux à corriger
+(`LEFT JOIN` + `COALESCE`) avant de brancher une vraie source moins propre.
+
 ## 📦 Contenu du repo
 
 ```
