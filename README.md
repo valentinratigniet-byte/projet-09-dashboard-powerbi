@@ -1,5 +1,7 @@
 # Projet 09 — Dashboard exécutif Power BI
 
+[![CI](https://github.com/valentinratigniet-byte/projet-09-dashboard-powerbi/actions/workflows/ci.yml/badge.svg)](https://github.com/valentinratigniet-byte/projet-09-dashboard-powerbi/actions/workflows/ci.yml)
+
 > **Une seule vue fiable de la performance commerciale.** Modèle en étoile propre,
 > mesures DAX (YoY, cumuls, moyennes glissantes), drill-down et sécurité au niveau
 > des lignes (RLS) — construit sur les données du
@@ -33,7 +35,7 @@ flowchart TD
 ## 🔬 Qualité des données (mesurée)
 
 Données synthétiques (Faker, seed du [Projet 07](https://github.com/valentinratigniet-byte/projet-07-base-ecommerce))
-exposées via les vues étoile de `sql/star_schema.sql` — 18 contrôles rejoués
+exposées via les vues étoile de `sql/star_schema.sql` — 18 contrôles rejoués à chaque push par la CI (`tests/check_csv.py`)
 directement sur les 4 CSV exportés (5 000 clients, 2 000 produits, 731 jours,
 120 089 lignes de vente) :
 

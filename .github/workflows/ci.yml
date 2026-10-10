@@ -1,0 +1,67 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  modele-etoile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: projet-09
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Contrôles qualité sur les 4 CSV du dashboard (18 contrôles du README)
+        run: python projet-09/tests/check_csv.py
+
+      # Les vues étoile sont construites sur la base du Projet 07 — voir README.
+      - name: Récupérer la base du Projet 07
+        uses: actions/checkout@v4
+        with:
+          repository: valentinratigniet-byte/projet-07-base-ecommerce
+          path: projet-07
+
+      - name: Démarrer PostgreSQL (Projet 07)
+        working-directory: projet-07
+        run: docker compose up -d
+
+      - name: Attendre que la base soit prête
+        run: |
+          for i in $(seq 1 20); do
+            docker exec p07_ecommerce_db pg_isready -U portfolio -d ecommerce && exit 0
+            sleep 2
+          done
+          echo "Postgres jamais devenu ready" >&2
+          exit 1
+
+      - name: Peupler la base source (Faker)
+        working-directory: projet-07
+        run: |
+          pip install -r seed/requirements.txt
+          python seed/seed.py
+
+      - name: Construire les vues étoile et vérifier leurs clés
+        working-directory: projet-09
+        run: |
+          psql() { docker exec -i p07_ecommerce_db psql -U portfolio -d ecommerce -v ON_ERROR_STOP=1 "$@"; }
+          psql < sql/country_names.sql
+          psql < sql/star_schema.sql
+          psql <<'SQL'
+          DO $$
+          DECLARE n int;
+          BEGIN
+            SELECT count(*) INTO n FROM fct_sales f
+            WHERE NOT EXISTS (SELECT 1 FROM dim_customer c WHERE c.customer_key = f.customer_key)
+               OR NOT EXISTS (SELECT 1 FROM dim_product p WHERE p.product_key = f.product_key)
+               OR NOT EXISTS (SELECT 1 FROM dim_date d WHERE d.date_key = f.date_key);
+            IF n > 0 THEN RAISE EXCEPTION '% lignes de fct_sales sans dimension', n; END IF;
+            SELECT count(*) INTO n FROM dim_customer WHERE country_name = country;
+            IF n > 0 THEN RAISE EXCEPTION '% clients avec un pays hors référentiel ISO', n; END IF;
+            RAISE NOTICE 'Vues étoile OK : % lignes de vente, 0 orphelin', (SELECT count(*) FROM fct_sales);
+          END $$;
+          SQL
