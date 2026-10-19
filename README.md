@@ -11,6 +11,8 @@
 > maquette, RLS) + les données prêtes à importer. Le fichier `.pbix` s'assemble
 > dans Power BI Desktop en suivant le guide ci-dessous.
 
+🗺️ **[Schéma du dépôt (GitDiagram)](https://gitdiagram.com/valentinratigniet-byte/projet-09-dashboard-powerbi)** : vue d'ensemble générée automatiquement à partir du code.
+
 ## 📸 Aperçu
 
 **Page 1 — Vue d'ensemble**
