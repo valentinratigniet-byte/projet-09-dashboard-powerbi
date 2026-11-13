@@ -116,7 +116,7 @@ Toutes rattachées à `fct_sales`, rangées par dossier d'affichage.
 | `CA YTD` | € | `TOTALYTD ( [CA], dim_date[date] )` | CA cumulé depuis le 1er janvier (Year-To-Date). |
 | `CA N-1` | € | `CALCULATE ( [CA], SAMEPERIODLASTYEAR ( dim_date[date] ) )` | CA de la même période l'an dernier. Base des comparaisons annuelles. |
 | `CA mois -1` | € | `CALCULATE ( [CA], DATEADD ( dim_date[date], -1, MONTH ) )` | CA du mois précédent. Base du MoM. |
-| `CA moyenne 3M` | € | `AVERAGEX ( DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH ), [CA] )` | Moyenne glissante sur 3 mois. Lisse la tendance. |
+| `CA moyenne 3M` | € | `IF ( ISBLANK ( [CA] ), BLANK (), AVERAGEX ( CALCULATETABLE ( VALUES ( dim_date[annee_mois] ), DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH ) ), [CA] ) )` | Moyenne glissante du CA mensuel sur 3 mois (mois courant + 2 précédents). Lisse la tendance. |
 | `Croissance YoY %` | % | `VAR courant = [CA] VAR precedent = [CA N-1] RETURN DIVIDE ( courant - precedent, precedent )` | Variation vs l'an dernier. Vide sans année précédente. ⚠ comparer des périodes complètes. |
 | `Croissance MoM %` | % | `DIVIDE ( [CA] - [CA mois -1], [CA mois -1] )` | Variation vs le mois précédent. |
 | `Tendance YoY` | ▲▼▬ | `VAR g = [Croissance YoY %] RETURN SWITCH ( TRUE (), g > 0.02, "▲", g < -0.02, "▼", "▬" )` | Indicateur visuel selon le signe du YoY (seuil ±2 %). |
