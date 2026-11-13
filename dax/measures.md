@@ -46,11 +46,20 @@ CA mois -1 = CALCULATE ( [CA], DATEADD ( dim_date[date], -1, MONTH ) )
 -- Croissance mensuelle (Month-over-Month)
 Croissance MoM % = DIVIDE ( [CA] - [CA mois -1], [CA mois -1] )
 
--- Moyenne glissante 3 mois (lissage de tendance)
+-- Moyenne glissante 3 mois (lissage de tendance) : moyenne des CA MENSUELS du mois courant et des 2 précédents.
+-- Itérer sur les mois (VALUES annee_mois) et pas sur les jours : AVERAGEX sur DATESINPERIOD seul
+-- renverrait la moyenne du CA par JOUR (~100 k€ au lieu de ~3 M€).
 CA moyenne 3M =
-AVERAGEX (
-    DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH ),
-    [CA]
+IF (
+    ISBLANK ( [CA] ),
+    BLANK (),
+    AVERAGEX (
+        CALCULATETABLE (
+            VALUES ( dim_date[annee_mois] ),
+            DATESINPERIOD ( dim_date[date], MAX ( dim_date[date] ), -3, MONTH )
+        ),
+        [CA]
+    )
 )
 ```
 
